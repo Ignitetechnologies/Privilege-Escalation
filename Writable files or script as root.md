@@ -11,3 +11,4 @@ This is a List of CTF Challenges in which privilege Escalation would be done by 
 8.	[PumpkinGarden](https://www.hackingarticles.in/pumpkingarden-vulnhub-walkthrough/)
 9.	[dpwwn: 1](https://www.hackingarticles.in/dpwwn-1-vulnhub-walkthrough/)
 10.	[Tr0ll: 3](https://www.hackingarticles.in/tr0ll-3-vulnhub-walkthrough/)
+11. [Nezuko:1](https://www.hackingarticles.in/nezuko-1-vulnhub-walkthrough/)
