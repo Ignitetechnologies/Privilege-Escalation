@@ -7,3 +7,4 @@ This is a List of CTF Challenges in which privilege Escalation would be done by 
 3.	[BSides London 2017](https://www.hackingarticles.in/hack-the-bsides-london-vm-2017boot2root/)
 4.	[PinkyPalace](https://www.hackingarticles.in/hack-the-pinkypalace-vm-ctf-challenge/)
 5.	[ROP Primer](https://www.hackingarticles.in/hack-the-rop-primer-1-0-1-ctf-challenge/)
+6.  [CTF KFIOFAN:2](https://www.hackingarticles.in/ctf-kfiofan-2-vulnhub-walkthorugh/)
