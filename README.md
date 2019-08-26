@@ -120,6 +120,7 @@ Table of Contents
 24.	[Typhoon : 1.02](https://www.hackingarticles.in/typhoon-1-02-vulnhub-walkthrough/)
 25.	[DC-3](https://www.hackingarticles.in/dc-3-walkthrough/)
 26.	[DC-5](https://www.hackingarticles.in/dc-5-vulnhub-walkthrough/)
+27. [GrimTheRipper:1](https://www.hackingarticles.in/grimtheripper-1-vulnhub-walkthrough/)
 <a name="path"></a>
 ## Path Variable
 
@@ -212,6 +213,7 @@ Table of Contents
 8.	[PumpkinGarden](https://www.hackingarticles.in/pumpkingarden-vulnhub-walkthrough/)
 9.	[dpwwn: 1](https://www.hackingarticles.in/dpwwn-1-vulnhub-walkthrough/)
 10.	[Tr0ll: 3](https://www.hackingarticles.in/tr0ll-3-vulnhub-walkthrough/)
+11. [Nezuko:1](https://www.hackingarticles.in/nezuko-1-vulnhub-walkthrough/)
 <a name="buffer"></a>
 ## Buffer Overflow
 
@@ -220,6 +222,7 @@ Table of Contents
 3.	[BSides London 2017](https://www.hackingarticles.in/hack-the-bsides-london-vm-2017boot2root/)
 4.	[PinkyPalace](https://www.hackingarticles.in/hack-the-pinkypalace-vm-ctf-challenge/)
 5.	[ROP Primer](https://www.hackingarticles.in/hack-the-rop-primer-1-0-1-ctf-challenge/)
+6.  [CTF KFIOFAN:2](https://www.hackingarticles.in/ctf-kfiofan-2-vulnhub-walkthorugh/)
 <a name="docker"></a>
 ## Docker
 
