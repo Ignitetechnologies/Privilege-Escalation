@@ -179,6 +179,7 @@ Table of Contents
 3.	[BSides Vancuver: 2018](https://www.hackingarticles.in/hack-the-bsides-vancouver2018-vm-boot2root-challenge/)
 4.	[Jarbas : 1](https://www.hackingarticles.in/hack-the-jarbas-1-ctf-challenge/)
 5.	[SP:Jerome](https://www.hackingarticles.in/spjerome-vulnhub-walkthrough/)
+6.  [dpwwn: 1](https://www.hackingarticles.in/dpwwn-1-vulnhub-walkthrough/)
 <a name="wild"></a>
 ## Wildcard Injection
 
@@ -211,9 +212,8 @@ Table of Contents
 6.	[Casino Royale](https://www.hackingarticles.in/casino-royale-1-vulnhub-walkthrough/)
 7.	[SP eric](https://www.hackingarticles.in/sp-eric-vulnhub-lab-walkthrough/)
 8.	[PumpkinGarden](https://www.hackingarticles.in/pumpkingarden-vulnhub-walkthrough/)
-9.	[dpwwn: 1](https://www.hackingarticles.in/dpwwn-1-vulnhub-walkthrough/)
-10.	[Tr0ll: 3](https://www.hackingarticles.in/tr0ll-3-vulnhub-walkthrough/)
-11. [Nezuko:1](https://www.hackingarticles.in/nezuko-1-vulnhub-walkthrough/)
+9.	[Tr0ll: 3](https://www.hackingarticles.in/tr0ll-3-vulnhub-walkthrough/)
+10. [Nezuko:1](https://www.hackingarticles.in/nezuko-1-vulnhub-walkthrough/)
 <a name="buffer"></a>
 ## Buffer Overflow
 
