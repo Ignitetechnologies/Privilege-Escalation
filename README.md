@@ -210,6 +210,7 @@ Table of Contents
 9.	[Tr0ll: 3](https://www.hackingarticles.in/tr0ll-3-vulnhub-walkthrough/)
 10. [Nezuko:1](https://www.hackingarticles.in/nezuko-1-vulnhub-walkthrough/)
 11. [Symfonos:3](https://www.hackingarticles.in/symfonos3-vulnhub-walkthrough/)
+12. [AI: Web: 1](https://www.hackingarticles.in/ai-web-1-vulnhub-walkthrough/)
 <a name="buffer"></a>
 ## Buffer Overflow
 
