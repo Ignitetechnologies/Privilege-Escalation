@@ -18,7 +18,6 @@ Table of Contents
 * [Crontab](#crontab)
 * [Wildcard Injection](#wild)
 * [Capabilities](#capabilities)
-* [Apache2.conf writable](#apache2)
 * [Writable etc/passwd file](#etc)
 * [Writable files or script as root](#root)
 * [Buffer Overflow](#buffer)
@@ -68,12 +67,11 @@ Table of Contents
 38.	[Digitalworld.local : JOY](https://www.hackingarticles.in/digitalworld-local-joy-vulnhub-walkthrough/)
 39.	[PumpkinFestival](https://www.hackingarticles.in/mission-pumpkin-v1-0-pumpkinfestival-vulnhub-walkthrough/)
 40.	[Sunset](https://www.hackingarticles.in/sunset-vulnhub-walkthrough/)
-41.	[Symfonos:3](https://www.hackingarticles.in/symfonos3-vulnhub-walkthrough/)
-42.	[Ted:1](https://www.hackingarticles.in/ted1-vulnhub-walkthrough/)
-43.	[CLAMP 1.0.1](https://www.hackingarticles.in/clamp-1-0-1-vulnhub-walkthrough/)
-44.	[Torment](https://www.hackingarticles.in/digitalworld-localtorment-vulnhub-walkthrough/)
-45.	[WestWild: 1.1](https://www.hackingarticles.in/westwild-1-1-vulnhub-walkthorugh/)
-46.	[Broken: Gallery](https://www.hackingarticles.in/broken-gallery-vulnhub-walkthrough/)
+41.	[Ted:1](https://www.hackingarticles.in/ted1-vulnhub-walkthrough/)
+42.	[CLAMP 1.0.1](https://www.hackingarticles.in/clamp-1-0-1-vulnhub-walkthrough/)
+43.	[Torment](https://www.hackingarticles.in/digitalworld-localtorment-vulnhub-walkthrough/)
+44.	[WestWild: 1.1](https://www.hackingarticles.in/westwild-1-1-vulnhub-walkthorugh/)
+45.	[Broken: Gallery](https://www.hackingarticles.in/broken-gallery-vulnhub-walkthrough/)
 <a name="suid"></a>
 ## SUID Bit
 
@@ -191,10 +189,7 @@ Table of Contents
 1.	[Kuya : 1](https://www.hackingarticles.in/vulnhub-kuya-1-walkthrough/)
 2.	[DomDom: 1](https://www.hackingarticles.in/domdom-1-vulnhub-walkthrough/)
 <a name="etc"></a>
-## Apache2.conf Writable
 
-1. [Torment](https://www.hackingarticles.in/digitalworld-localtorment-vulnhub-walkthrough/) 
-<a name="apache2"></a>
 ## Writable etc/passwd file
 
 1.	[Hackday Albania](https://www.hackingarticles.in/hack-hackday-albania-vm-ctf-challenge/)
@@ -214,6 +209,7 @@ Table of Contents
 8.	[PumpkinGarden](https://www.hackingarticles.in/pumpkingarden-vulnhub-walkthrough/)
 9.	[Tr0ll: 3](https://www.hackingarticles.in/tr0ll-3-vulnhub-walkthrough/)
 10. [Nezuko:1](https://www.hackingarticles.in/nezuko-1-vulnhub-walkthrough/)
+11. [Symfonos:3](https://www.hackingarticles.in/symfonos3-vulnhub-walkthrough/)
 <a name="buffer"></a>
 ## Buffer Overflow
 
