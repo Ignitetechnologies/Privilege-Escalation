@@ -22,6 +22,7 @@ Table of Contents
 * [Writable files or script as root](#root)
 * [Buffer Overflow](#buffer)
 * [Docker](#docker)
+* [Chkrootkit](#chkrootkit)
 
 <a name="sudo"></a>
 ## Abusing Sudo Rights
@@ -162,6 +163,8 @@ Table of Contents
 28.	[Blacklight : 1](https://www.hackingarticles.in/hack-the-blacklight-1-ctf-challenge/)
 29.	[RootThis : 1](https://www.hackingarticles.in/vulnhub-rootthis-1-walkthrough/)
 30.	[Cyberry:1](https://hackingarticles.in/hack-vm-cyberry-1boot2root-challenge/)
+31. [Moonraker:1](https://www.hackingarticles.in/moonraker1-vulnhub-walkthrough/)
+32. [Matrix 2](https://www.hackingarticles.in/matrix-2-vulnhub-lab-walkthrough/)
 <a name="mysql"></a>
 ## MySQL
 
@@ -227,3 +230,8 @@ Table of Contents
 1.	[Donkey Docker](https://www.hackingarticles.in/hack-donkeydocker-ctf-challenge/)
 2.	[Game of Thrones](https://www.hackingarticles.in/hack-game-thrones-vm-ctf-challenge/)
 3.	[HackinOS : 1](https://www.hackingarticles.in/hackinos1-vulnhub-lab-walkthrough/)
+<a name="chkrootkit"></a>
+## Chkrootkit
+
+1. [SickOS 1.2](https://www.hackingarticles.in/hack-the-sickos-1-2-vm-ctf-challenge/)
+2. [Sedna](https://www.hackingarticles.in/hack-sedna-vm-ctf-challenge/)
