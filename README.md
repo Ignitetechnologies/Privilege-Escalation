@@ -82,13 +82,12 @@ Table of Contents
 5.	[/dev/random : K2](https://www.hackingarticles.in/hack-the-dev-random-k2-vm-boot2root-challenge/)
 6.	[FourAndSix : 2](https://www.hackingarticles.in/fourandsix-2-vulnhub-walkthrough/)
 7.	[DC-1](https://www.hackingarticles.in/dc-1-vulnhub-walkthrough/)
-8.	[HackinOS : 1](https://www.hackingarticles.in/hackinos1-vulnhub-lab-walkthrough/)
-9.	[digitalworld.local - BRAVERY](https://www.hackingarticles.in/digitalworld-local-bravery-vulnhub-walkthrough/)
-10.	[Happycorp : 1](https://www.hackingarticles.in/happycorp1-vulnhub-walkthrough/)
-11.	[MinU: v2](https://www.hackingarticles.in/minu-v2-vulnhub-walkthrough/)
-12.	[hackme1](https://www.hackingarticles.in/hackme-1-vulnhub-walkthrough/)
-13.	[dpwwn:2](https://www.hackingarticles.in/dpwwn2-vulnhub-walkthrough/)
-14.	[Kevgir](https://www.hackingarticles.in/hack-kevgir-vm-ctf-challenge/)
+8.	[digitalworld.local - BRAVERY](https://www.hackingarticles.in/digitalworld-local-bravery-vulnhub-walkthrough/)
+9.	[Happycorp : 1](https://www.hackingarticles.in/happycorp1-vulnhub-walkthrough/)
+10.	[MinU: v2](https://www.hackingarticles.in/minu-v2-vulnhub-walkthrough/)
+11.	[hackme1](https://www.hackingarticles.in/hackme-1-vulnhub-walkthrough/)
+12.	[dpwwn:2](https://www.hackingarticles.in/dpwwn2-vulnhub-walkthrough/)
+13.	[Kevgir](https://www.hackingarticles.in/hack-kevgir-vm-ctf-challenge/)
 <a name="kernel"></a>
 ## Kernel Exploit
 
@@ -225,3 +224,4 @@ Table of Contents
 
 1.	[Donkey Docker](https://www.hackingarticles.in/hack-donkeydocker-ctf-challenge/)
 2.	[Game of Thrones](https://www.hackingarticles.in/hack-game-thrones-vm-ctf-challenge/)
+3.	[HackinOS : 1](https://www.hackingarticles.in/hackinos1-vulnhub-lab-walkthrough/)
