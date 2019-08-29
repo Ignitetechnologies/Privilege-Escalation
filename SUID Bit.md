@@ -9,7 +9,7 @@ This is a List of CTF Challenges in which privilege Escalation would be done by 
 |3|[Happycorp : 1](https://www.hackingarticles.in/happycorp1-vulnhub-walkthrough/)|cp|
 |4|[FourAndSix : 2](https://www.hackingarticles.in/fourandsix-2-vulnhub-walkthrough/)|doas|
 |5|[DC-1](https://www.hackingarticles.in/dc-1-vulnhub-walkthrough/)|find|
-|6|[MinU: v2](https://www.hackingarticles.in/minu-v2-vulnhub-walkthrough/)|Macro Editor|
+|6|[MinU: v2](https://www.hackingarticles.in/minu-v2-vulnhub-walkthrough/)|Micro Editor|
 |7|[Toppo:1](https://www.hackingarticles.in/hack-the-toppo1-vm-ctf-challenges/)|mawk|
 |8|[Mr. Robot](https://www.hackingarticles.in/hack-mr-robot-vm-ctf-challenge/)|nmap|
 |9|[Tr0ll 1](https://www.hackingarticles.in/hack-the-troll-1-vm-boot-to-root/)|Python Script|
