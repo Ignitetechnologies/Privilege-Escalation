@@ -194,6 +194,8 @@ Table of Contents
 1.	[Hackday Albania](https://www.hackingarticles.in/hack-hackday-albania-vm-ctf-challenge/)
 2.	[Billu Box 2](https://www.hackingarticles.in/hack-billu-b0x-vm-boot2root-challenge/)
 3.	[Bulldog 2](https://www.hackingarticles.in/hack-the-bulldog2-ctf-challenge/)
+4.  [AI: Web: 1](https://www.hackingarticles.in/ai-web-1-vulnhub-walkthrough/)
+5.  [Westwild: 2](https://www.hackingarticles.in/westwild-2-vulnhub-walkthrough/)
 
 <a name="root"></a>
 ## Writable files or script as root
