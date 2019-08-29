@@ -16,5 +16,4 @@ This is a List of CTF Challenges in which privilege Escalation would be done by 
 |10|[Covfefe](https://www.hackingarticles.in/hack-covfefe-vm-ctf-challenge/)|script|
 |11|[/dev/random : K2](https://www.hackingarticles.in/hack-the-dev-random-k2-vm-boot2root-challenge/)|script|
 |12|[hackme1](https://www.hackingarticles.in/hackme-1-vulnhub-walkthrough/)|script|
-|13|[HackinOS : 1](https://www.hackingarticles.in/hackinos1-vulnhub-lab-walkthrough/)|tail|
-|14|[dpwwn:2](https://www.hackingarticles.in/dpwwn2-vulnhub-walkthrough/)|wget|
+|13|[dpwwn:2](https://www.hackingarticles.in/dpwwn2-vulnhub-walkthrough/)|wget|
