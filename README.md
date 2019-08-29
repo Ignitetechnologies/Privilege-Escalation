@@ -28,108 +28,117 @@ Table of Contents
 ## Abusing Sudo Rights
 
 
-1.	[Holynix: v1](https://www.hackingarticles.in/hack-the-holynix-v1-boot-2-root-challenge/)
-2.	[DE-ICE:S1.120](https://www.hackingarticles.in/hack-the-de-ice-s1-120-vm-boot-to-root/)
-3.	[21 LTR: Scene1](https://www.hackingarticles.in/hack-the-21ltr-scene-1-vm-boot-to-root/)
-4.	[Kioptrix : Level 1.2](https://www.hackingarticles.in/hack-the-kioptrix-level-1-2-boot2root-challenge/)
-5.	[Skytower](https://www.hackingarticles.in/hack-the-skytower-ctf-challenge/)
-6.	[Fristileaks](https://www.hackingarticles.in/hack-fristileaks-vm-ctf-challenge/)
-7.	[Breach 2.1](https://www.hackingarticles.in/hack-breach-2-1-vm-ctf-challenge/)
-8.	[Zico 2](https://www.hackingarticles.in/hack-zico2-vm-ctf-challenge/)
-9.	[RickdiculouslyEasy](https://www.hackingarticles.in/hack-rickdiculouslyeasy-vm-ctf-challenge/)
-10.	[Dina](https://www.hackingarticles.in/hack-dina-vm-ctf-challenge/)
-11.	[Depth](https://www.hackingarticles.in/hack-depth-vm-ctf-challenge/)
-12.	[The Ether: Evil Science](https://www.hackingarticles.in/hack-ether-evilscience-vm-ctf-challenge/)
-13.	[Basic penetration](https://www.hackingarticles.in/hack-the-basic-penetration-vm-boot2root-challenge/)
-14.	[DerpNStink](https://www.hackingarticles.in/hack-the-derpnstink-vm-ctf-challenge/)
-15.	[W1R3S.inc](https://www.hackingarticles.in/hack-the-w1r3s-inc-vm-ctf-challenge/)
-16.	[Bob:1.0.1](https://www.hackingarticles.in/hack-the-bob-1-0-1-vm-ctf-challenge/)
-17.	[The blackmarket](https://www.hackingarticles.in/hack-the-blackmarket-vm-ctf-challenge/)
-18.	[Violator](https://www.hackingarticles.in/hack-the-violator-ctf-challenge/)
-19.	[Basic Pentesting : 2](https://www.hackingarticles.in/hack-the-basic-pentesting2-vm-ctf-challenge/)
-20.	[Temple of Doom](https://www.hackingarticles.in/hack-the-temple-of-doom-ctf-challenge/)
-21.	[Wakanda : 1](https://www.hackingarticles.in/hack-the-wakanda-1-ctf-challenge/)
-22.	[Matrix : 1](https://www.hackingarticles.in/matrix-1-vulnhub-walkthrough/)
-23.	[KFIOFan : 1](https://www.hackingarticles.in/kfiofan1-vulnhub-walkthrough/)
-24.	[W34n3ss 1](https://www.hackingarticles.in/w34kn3ss-1-vulnhub-lab-walkthrough/)
-25.	[Replay : 1](https://www.hackingarticles.in/replay-1-vulnhub-lab-walkthrough/)
-26.	[Unknowndevice64 : 1](https://www.hackingarticles.in/unknowndevice64-v2-0-vulnhub-walkthrough/)
-27.	[Web Developer : 1](https://www.hackingarticles.in/web-developer-1-vulnhub-lab-walkthrough/)
-28.	[SP ike](https://www.hackingarticles.in/sp-ike-vulnhub-lab-walkthrough/)
-29.	[DC-2](https://www.hackingarticles.in/dc-2-walkthrough/)
-30.	[DC6](https://www.hackingarticles.in/dc6-lab-walkthrough/)
-31.	[Born2Root2](https://www.hackingarticles.in/born2root-2-vulnhub-walkthrough/)
-32.	[DC-4](https://www.hackingarticles.in/dc-4-vulnhub-walkthrough/)
-33.	[Development](https://www.hackingarticles.in/development-vulnhub-walkthrough/)
-34.	[Sputnik 1](https://www.hackingarticles.in/sputnik-1-vulnhub-walkthrough/)
-35.	[PumpkinRaising](https://www.hackingarticles.in/pumpkinraising-vulnhub-walkthrough/)
-36.	[Matrix-3](https://www.hackingarticles.in/matrix-3-vulnhub-walkthrough/)
-37.	[symfonos : 2](https://www.hackingarticles.in/symfonos2-vulnhub-walkthrough/)
-38.	[Digitalworld.local : JOY](https://www.hackingarticles.in/digitalworld-local-joy-vulnhub-walkthrough/)
-39.	[PumpkinFestival](https://www.hackingarticles.in/mission-pumpkin-v1-0-pumpkinfestival-vulnhub-walkthrough/)
-40.	[Sunset](https://www.hackingarticles.in/sunset-vulnhub-walkthrough/)
-41.	[Ted:1](https://www.hackingarticles.in/ted1-vulnhub-walkthrough/)
-42.	[CLAMP 1.0.1](https://www.hackingarticles.in/clamp-1-0-1-vulnhub-walkthrough/)
-43.	[Torment](https://www.hackingarticles.in/digitalworld-localtorment-vulnhub-walkthrough/)
-44.	[WestWild: 1.1](https://www.hackingarticles.in/westwild-1-1-vulnhub-walkthorugh/)
-45.	[Broken: Gallery](https://www.hackingarticles.in/broken-gallery-vulnhub-walkthrough/)
+|No.|Machine Name|Files/Binaries|
+|-------|--------------|----------------|
+|1|[RickdiculouslyEasy](https://www.hackingarticles.in/hack-rickdiculouslyeasy-vm-ctf-chAllenge/)|All|
+|2|[Depth](https://www.hackingarticles.in/hack-depth-vm-ctf-chAllenge/)|All| 
+|3|[Basic penetration](https://www.hackingarticles.in/hack-the-basic-penetration-vm-boot2root-chAllenge/)|All|
+|4|[W1R3S.inc](https://www.hackingarticles.in/hack-the-w1r3s-inc-vm-ctf-chAllenge/)|All|
+|5|[Bob:1.0.1](https://www.hackingarticles.in/hack-the-bob-1-0-1-vm-ctf-challenge/)|All|
+|6|[W34n3ss 1](https://www.hackingarticles.in/w34kn3ss-1-vulnhub-lab-walkthrough/)|All|
+|7|[Replay : 1](https://www.hackingarticles.in/replay-1-vulnhub-lab-walkthrough/)|All|
+|8|[Born2Root2](https://www.hackingarticles.in/born2root-2-vulnhub-walkthrough/)|All|
+|9|[WestWild: 1.1](https://www.hackingarticles.in/westwild-1-1-vulnhub-walkthorugh/)|All|
+|10|[CLAMP 1.0.1](https://www.hackingarticles.in/clamp-1-0-1-vulnhub-walkthrough/)|All|
+|11|[Ted:1](https://www.hackingarticles.in/ted1-vulnhub-walkthrough/)|apt-get|
+|12|[KFIOFan : 1](https://www.hackingarticles.in/kfiofan1-vulnhub-walkthrough/)|awk|
+|13|[21 LTR: Scene1](https://www.hackingarticles.in/hack-the-21ltr-scene-1-vm-boot-to-root/)|cat| 
+|14|[Skytower](https://www.hackingarticles.in/hack-the-skytower-ctf-chAllenge/)|cat|
+|15|[Matrix : 1](https://www.hackingarticles.in/matrix-1-vulnhub-walkthrough/)|cp|
+|16|[Sputnik 1](https://www.hackingarticles.in/sputnik-1-vulnhub-walkthrough/)|ed|
+|17|[Sunset](https://www.hackingarticles.in/sunset-vulnhub-walkthrough/)|ed|
+|18|[DC-2](https://www.hackingarticles.in/dc-2-walkthrough/)|git|
+|19|[Kioptrix : Level 1.2](https://www.hackingarticles.in/hack-the-kioptrix-level-1-2-boot2root-chAllenge/)|ht|
+|20|[Unknowndevice64 : 1](https://www.hackingarticles.in/unknowndevice64-v2-0-vulnhub-walkthrough/)|ltrace|
+|21|[Matrix-3](https://www.hackingarticles.in/matrix-3-vulnhub-walkthrough/)|manual|
+|22|[symfonos : 2](https://www.hackingarticles.in/symfonos2-vulnhub-walkthrough/)|MySQL|
+|23|[Development](https://www.hackingarticles.in/development-vulnhub-walkthrough/)|nano|
+|24|[SP ike](https://www.hackingarticles.in/sp-ike-vulnhub-lab-walkthrough/)|nmap|
+|25|[DC6](https://www.hackingarticles.in/dc6-lab-walkthrough/)|nmap|
+|26|[Dina](https://www.hackingarticles.in/hack-dina-vm-ctf-chAllenge/)|perl|
+|27|[The Ether: Evil Science](https://www.hackingarticles.in/hack-ether-evilscience-vm-ctf-chAllenge/)|python|
+|28|[The blackmarket](https://www.hackingarticles.in/hack-the-blackmarket-vm-ctf-chAllenge/)|python|
+|29|[Violator](https://www.hackingarticles.in/hack-the-violator-ctf-chAllenge/)|python|
+|30|[Torment](https://www.hackingarticles.in/digitalworld-localtorment-vulnhub-walkthrough/)|python|
+|31|[Broken: GAllery](https://www.hackingarticles.in/broken-gAllery-vulnhub-walkthrough/)|reboot|
+|32|[DE-ICE:S1.120](https://www.hackingarticles.in/hack-the-de-ice-s1-120-vm-boot-to-root/)|script|
+|33|[Fristileaks](https://www.hackingarticles.in/hack-fristileaks-vm-ctf-chAllenge/)|script|
+|34|[DerpNStink](https://www.hackingarticles.in/hack-the-derpnstink-vm-ctf-chAllenge/)|script|
+|35|[Basic Pentesting : 2](https://www.hackingarticles.in/hack-the-basic-pentesting2-vm-ctf-chAllenge/)|script|
+|36|[Wakanda : 1](https://www.hackingarticles.in/hack-the-wakanda-1-ctf-chAllenge/)|script|
+|37|[Digitalworld.local : JOY](https://www.hackingarticles.in/digitalworld-local-joy-vulnhub-walkthrough/)|script|
+|38|[PumpkinFestival](https://www.hackingarticles.in/mission-pumpkin-v1-0-pumpkinfestival-vulnhub-walkthrough/)|script|
+|39|[PumpkinRaising](https://www.hackingarticles.in/pumpkinraising-vulnhub-walkthrough/)|strace|
+|40|[Holynix: v1](https://www.hackingarticles.in/hack-the-holynix-v1-boot-2-root-chAllenge/)|tar|
+|41|[Breach 2.1](https://www.hackingarticles.in/hack-breach-2-1-vm-ctf-chAllenge/)|tcpdump|
+|42|[Temple of Doom](https://www.hackingarticles.in/hack-the-temple-of-doom-ctf-chAllenge/)|tcpdump|
+|43|[Web Developer : 1](https://www.hackingarticles.in/web-developer-1-vulnhub-lab-walkthrough/)|tcpdump|
+|44|[DC-4](https://www.hackingarticles.in/dc-4-vulnhub-walkthrough/)|teehee|
+|45|[Zico 2](https://www.hackingarticles.in/hack-zico2-vm-ctf-chAllenge/)|zip|
 <a name="suid"></a>
 ## SUID Bit
 
-1.	[Tr0ll 1](https://www.hackingarticles.in/hack-the-troll-1-vm-boot-to-root/)
-2.	[Mr. Robot](https://www.hackingarticles.in/hack-mr-robot-vm-ctf-challenge/)
-3.	[Covfefe](https://www.hackingarticles.in/hack-covfefe-vm-ctf-challenge/)
-4.	[Toppo:1](https://www.hackingarticles.in/hack-the-toppo1-vm-ctf-challenges/)
-5.	[/dev/random : K2](https://www.hackingarticles.in/hack-the-dev-random-k2-vm-boot2root-challenge/)
-6.	[FourAndSix : 2](https://www.hackingarticles.in/fourandsix-2-vulnhub-walkthrough/)
-7.	[DC-1](https://www.hackingarticles.in/dc-1-vulnhub-walkthrough/)
-8.	[digitalworld.local - BRAVERY](https://www.hackingarticles.in/digitalworld-local-bravery-vulnhub-walkthrough/)
-9.	[Happycorp : 1](https://www.hackingarticles.in/happycorp1-vulnhub-walkthrough/)
-10.	[MinU: v2](https://www.hackingarticles.in/minu-v2-vulnhub-walkthrough/)
-11.	[hackme1](https://www.hackingarticles.in/hackme-1-vulnhub-walkthrough/)
-12.	[dpwwn:2](https://www.hackingarticles.in/dpwwn2-vulnhub-walkthrough/)
-13.	[Kevgir](https://www.hackingarticles.in/hack-kevgir-vm-ctf-challenge/)
+|No.| Machine Name                 |SUID Bit|
+|-------|------------------------------|-------|
+|1|[Kevgir](https://www.hackingarticles.in/hack-kevgir-vm-ctf-challenge/)|cp|
+|2|[digitalworld.local - BRAVERY](https://www.hackingarticles.in/digitalworld-local-bravery-vulnhub-walkthrough/)|cp|
+|3|[Happycorp : 1](https://www.hackingarticles.in/happycorp1-vulnhub-walkthrough/)|cp|
+|4|[FourAndSix : 2](https://www.hackingarticles.in/fourandsix-2-vulnhub-walkthrough/)|doas|
+|5|[DC-1](https://www.hackingarticles.in/dc-1-vulnhub-walkthrough/)|find|
+|6|[dpwwn:2](https://www.hackingarticles.in/dpwwn2-vulnhub-walkthrough/)|find|
+|7|[MinU: v2](https://www.hackingarticles.in/minu-v2-vulnhub-walkthrough/)|Micro Editor|
+|8|[Toppo:1](https://www.hackingarticles.in/hack-the-toppo1-vm-ctf-challenges/)|python 2.7|
+|9|[Mr. Robot](https://www.hackingarticles.in/hack-mr-robot-vm-ctf-challenge/)|nmap|
+|10|[Tr0ll 1](https://www.hackingarticles.in/hack-the-troll-1-vm-boot-to-root/)|script|
+|11|[Covfefe](https://www.hackingarticles.in/hack-covfefe-vm-ctf-challenge/)|script|
+|12|[/dev/random : K2](https://www.hackingarticles.in/hack-the-dev-random-k2-vm-boot2root-challenge/)|script|
+|13|[hackme1](https://www.hackingarticles.in/hackme-1-vulnhub-walkthrough/)|script|
 <a name="kernel"></a>
 ## Kernel Exploit
 
-1.	[LAMPSecurity: CTF 5](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-5-ctf-challenge/)
-2.	[pWnOS -1.0](https://www.hackingarticles.in/hack-the-pwnos-1-0-boot-to-root/)
-3.	[Hackademic-RTB1](https://www.hackingarticles.in/hack-the-hackademic-rtb1-vm-boot-to-root/)
-4.	[Kioptrix : Level 1.1](https://www.hackingarticles.in/hack-the-kioptrix-level-2-boot2root-challenge/)
-5.	[Kioprtix: 5](https://www.hackingarticles.in/hack-the-kioptrix-5-ctf-challenge/)
-6.	[SecOS: 1](https://www.hackingarticles.in/hack-the-secos1-ctf-challenge/)
-7.	[Droopy](https://www.hackingarticles.in/hack-droopy-vm-ctf-challenge/)
-8.	[Stapler](https://www.hackingarticles.in/hack-stapler-vm-ctf-challenge/)
-9.	[Sidney](https://www.hackingarticles.in/hack-sydney-vm-ctf-challenge/)
-10.	[Simple](https://www.hackingarticles.in/hack-simple-vm-ctf-challenge/)
-11.	[VulnOS: 2.0](https://www.hackingarticles.in/hack-the-vulnos-2-0-vm-ctf-challenge/)
-12.	[Lord of the Root](https://www.hackingarticles.in/hack-lord-root-vm-ctf-challenge/)
-13.	[Acid Reloaded](https://www.hackingarticles.in/hack-acid-reloaded-vm-ctf-challenge/)
-14.	[Pluck](https://www.hackingarticles.in/hack-pluck-vm-ctf-challenge/)
-15.	[Fartknocker](https://www.hackingarticles.in/hack-fartknocker-vm-ctf-challenge/)
-16.	[Nightmare](https://www.hackingarticles.in/hack-the-box-nightmare-walkthrough/)
-17.	[Super Mario](https://www.hackingarticles.in/hack-super-mario-ctf-challenge/)
-18.	[BTRSys:dv 2.1](https://www.hackingarticles.in/hack-btrsys-v2-1-vm-boot2root-challenge/)
-19.	[Trollcave](https://www.hackingarticles.in/hack-the-trollcave-vm-boot-to-root/)
-20.	[Golden Eye:1](https://www.hackingarticles.in/hack-the-golden-eye1-ctf-challenge/)
-21.	[Lampiao : 1](https://www.hackingarticles.in/hack-the-lampiao-1-ctf-challenge/)
-22.	[WinterMute : 1](https://www.hackingarticles.in/hack-the-wintermute-1-ctf-challenge/)
-23.	[ch4inrulz : 1.0.1](https://www.hackingarticles.in/hack-the-ch4inrulz-1-0-1-ctf-challenge/)
-24.	[Typhoon : 1.02](https://www.hackingarticles.in/typhoon-1-02-vulnhub-walkthrough/)
-25.	[DC-3](https://www.hackingarticles.in/dc-3-walkthrough/)
-26.	[DC-5](https://www.hackingarticles.in/dc-5-vulnhub-walkthrough/)
-27. [GrimTheRipper:1](https://www.hackingarticles.in/grimtheripper-1-vulnhub-walkthrough/)
+|No.| Machine Name|Kernel|Exploit|
+|-------|----------------------|--------------------------------------------------------|-----------------------------------------|
+|1|[pWnOS -1.0](https://www.hackingarticles.in/hack-the-pwnos-1-0-boot-to-root/)|Linux Kernel 2.6.17 < 2.6.24.1| [5092](https://www.exploit-db.com/exploits/5092)|
+|2|[LAMPSecurity: CTF 5](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-5-ctf-challenge/)|Linux Kernel 2.4/2.6|[9479](https://www.exploit-db.com/exploits/9479)|
+|3|[Kioptrix : Level 1.1](https://www.hackingarticles.in/hack-the-kioptrix-level-2-boot2root-challenge/)|CentOS 4.4/4.5 / Fedora Core 4/5/6 x86)|[9542](https://www.exploit-db.com/exploits/9542)|
+|4|[Hackademic-RTB1](https://www.hackingarticles.in/hack-the-hackademic-rtb1-vm-boot-to-root/)| RDS Protocol' Local Privilege Escalation| [15285](https://www.exploit-db.com/exploits/15285)|
+|5|[Hackademic-RTB2](https://www.hackingarticles.in/hack-the-hackademic-rtb2-boot2root/)|RDS Protocol' Local Privilege Escalation|[15285](https://www.exploit-db.com/exploits/15285)|
+|6|[ch4inrulz : 1.0.1](https://www.hackingarticles.in/hack-the-ch4inrulz-1-0-1-ctf-challenge/)|RDS Protocol' Local Privilege Escalation|[15285](https://www.exploit-db.com/exploits/15285)|
+|7|[Kioprtix: 5](https://www.hackingarticles.in/hack-the-kioptrix-5-ctf-challenge/)|FreeBSD 9.0 - Intel SYSRET Kernel Privilege Escalation|[28718](https://www.exploit-db.com/exploits/28718)|
+|8|[Simple](https://www.hackingarticles.in/hack-simple-vm-ctf-challenge/)|Apport/Abrt (Ubuntu / Fedora)| [36746](https://www.exploit-db.com/exploits/36746)|
+|9|[SecOS: 1](https://www.hackingarticles.in/hack-the-secos1-ctf-challenge/)|Ubuntu 12.04/14.04/14.10/15.04|[37292](https://www.exploit-db.com/exploits/37292)|
+|10|[Droopy](https://www.hackingarticles.in/hack-droopy-vm-ctf-challenge/)|Ubuntu 12.04/14.04/14.10/15.04|[37292](https://www.exploit-db.com/exploits/37292)|
+|11|[VulnOS: 2.0](https://www.hackingarticles.in/hack-the-vulnos-2-0-vm-ctf-challenge/)|Ubuntu 12.04/14.04/14.10/15.04|[37292](https://www.exploit-db.com/exploits/37292)|
+|12|[Fartknocker](https://www.hackingarticles.in/hack-fartknocker-vm-ctf-challenge/)|Ubuntu 12.04/14.04/14.10/15.04|[37292](https://www.exploit-db.com/exploits/37292)|
+|13|[Super Mario](https://www.hackingarticles.in/hack-super-mario-ctf-challenge/)|Ubuntu 12.04/14.04/14.10/15.04|[37292](https://www.exploit-db.com/exploits/37292)|
+|14|[Golden Eye:1](https://www.hackingarticles.in/hack-the-golden-eye1-ctf-challenge/)|Ubuntu 12.04/14.04/14.10/15.04|[37292](https://www.exploit-db.com/exploits/37292)|
+|15|[Typhoon : 1.02](https://www.hackingarticles.in/typhoon-1-02-vulnhub-walkthrough/)|Ubuntu 12.04/14.04/14.10/15.04|[37292](https://www.exploit-db.com/exploits/37292)|
+|16|[GrimTheRipper:1](https://www.hackingarticles.in/grimtheripper-1-vulnhub-walkthrough/)|Ubuntu 12.04/14.04/14.10/15.04|[37292](https://www.exploit-db.com/exploits/37292)|
+|17|[Lord of the Root](https://www.hackingarticles.in/hack-lord-root-vm-ctf-challenge/)|Ubuntu 14.04/15.10| [39166](https://www.exploit-db.com/exploits/39166)|
+|18|[Acid Reloaded](https://www.hackingarticles.in/hack-acid-reloaded-vm-ctf-challenge/)|Ubuntu 14.04/15.10|[39166](https://www.exploit-db.com/exploits/39166)|
+|19|[Stapler](https://www.hackingarticles.in/hack-stapler-vm-ctf-challenge/)|Ubuntu 16.04|[39772](https://www.exploit-db.com/exploits/39772)|
+|20|[Sidney](https://www.hackingarticles.in/hack-sydney-vm-ctf-challenge/)|Ubuntu 16.04|[39772](https://www.exploit-db.com/exploits/39772)|
+|21|[DC-3](https://www.hackingarticles.in/dc-3-walkthrough/)|Ubuntu 16.04|[39772](https://www.exploit-db.com/exploits/39772)|
+|22|[Pluck](https://www.hackingarticles.in/hack-pluck-vm-ctf-challenge/)|Dirty COW|[40616](https://www.exploit-db.com/exploits/40616)|
+|23|[Lampiao : 1](https://www.hackingarticles.in/hack-the-lampiao-1-ctf-challenge/)|Dirty COW /proc/self/mem' Race Condition|[40847](https://www.exploit-db.com/exploits/40847)|
+|24|[WinterMute : 1](https://www.hackingarticles.in/hack-the-wintermute-1-ctf-challenge/)|GNU Screen 4.5.0|[41154](https://www.exploit-db.com/exploits/41154)|
+|25|[DC-5](https://www.hackingarticles.in/dc-5-vulnhub-walkthrough/)|GNU Screen 4.5.0|[41154](https://www.exploit-db.com/exploits/41154)|
+|26|[BTRSys:dv 2.1](https://www.hackingarticles.in/hack-btrsys-v2-1-vm-boot2root-challenge/)|Linux Kernel 4.4.0 (Ubuntu) - DCCP Double-Free|[41458](https://www.exploit-db.com/exploits/41458)|
+|27|[Nightmare](https://www.hackingarticles.in/hack-the-box-nightmare-walkthrough/)|Ubuntu 14.04/16.04 (KASLR / SMEP)|[43418](https://www.exploit-db.com/exploits/43418)|
+|28|[Trollcave](https://www.hackingarticles.in/hack-the-trollcave-vm-boot-to-root/)|Linux Kernel < 4.4.0-116 (Ubuntu 16.04.4)|[44298](https://www.exploit-db.com/exploits/44298)|
 <a name="path"></a>
 ## Path Variable
 
-1.	[PwnLab](https://www.hackingarticles.in/penetration-testing-pwnlab-ctf-challenge/)
-2.	[Nullbyte](https://www.hackingarticles.in/hack-nullbyte-vm-ctf-challenge/)
-3.	[USV](https://www.hackingarticles.in/hack-usv-vm-ctf-challenge/)
-4.	[The Gemini inc](https://www.hackingarticles.in/hack-the-gemini-inc-ctf-challenge/)
-5.	[Silky-CTF: 0x01](https://www.hackingarticles.in/silky-ctf-0x01-vulnhub-walkthrough/)
-6.	[symfonos : 1](https://www.hackingarticles.in/symfonos1-vulnhub-walkthrough/)
-7.	[Beast 2](https://www.hackingarticles.in/beast-2-vulnhub-walkthrough/)
-8.	[Zeus:1](https://www.hackingarticles.in/zeus1-vulnhub-walkthrough/)
+|No.| Path Variable   | Files  |
+|-------|-----------------|--------|
+|1| [PwnLab](https://www.hackingarticles.in/penetration-testing-pwnlab-ctf-challenge/)| cat    |
+|2| [USV](https://www.hackingarticles.in/hack-usv-vm-ctf-challenge/)             | cat    |
+|3| [Zeus:1](https://www.hackingarticles.in/zeus1-vulnhub-walkthrough/)| date   |
+|4|[The Gemini inc](https://www.hackingarticles.in/hack-the-gemini-inc-ctf-challenge/)  | date   |
+|5| [Nullbyte](https://www.hackingarticles.in/hack-nullbyte-vm-ctf-challenge/) | ps     |
+|6| [symfonos : 1](https://www.hackingarticles.in/symfonos1-vulnhub-walkthrough/)| curl   |
+|7| [Silky-CTF: 0x01](https://www.hackingarticles.in/silky-ctf-0x01-vulnhub-walkthrough/) | whoami |
+|8| [Beast 2](https://www.hackingarticles.in/beast-2-vulnhub-walkthrough/)   | whoami |
 <a name="enum"></a>
 ## Enumeration
 
