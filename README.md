@@ -160,7 +160,7 @@ Table of Contents
 26.	[BTRSys 1](https://www.hackingarticles.in/hack-btrsys1-vm-boot2root-challenge/)
 27.	[G0rmint](https://www.hackingarticles.in/hack-g0rmint-vm-ctf-challenge/)
 28.	[Blacklight : 1](https://www.hackingarticles.in/hack-the-blacklight-1-ctf-challenge/)
-29.	[RootThis : 1](https://www.hackingarticles.in/hack-the-blacklight-1-ctf-challenge/)
+29.	[RootThis : 1](https://www.hackingarticles.in/vulnhub-rootthis-1-walkthrough/)
 30.	[Cyberry:1](https://hackingarticles.in/hack-vm-cyberry-1boot2root-challenge/)
 <a name="mysql"></a>
 ## MySQL
