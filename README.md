@@ -123,7 +123,7 @@ Table of Contents
 
 1.	[PwnLab](https://www.hackingarticles.in/penetration-testing-pwnlab-ctf-challenge/)
 2.	[Nullbyte](https://www.hackingarticles.in/hack-nullbyte-vm-ctf-challenge/)
-3.	[USV](https://www.hackingarticles.in/hack-usv-2017-ctf-challenge/)
+3.	[USV](https://www.hackingarticles.in/hack-usv-vm-ctf-challenge/)
 4.	[The Gemini inc](https://www.hackingarticles.in/hack-the-gemini-inc-ctf-challenge/)
 5.	[Silky-CTF: 0x01](https://www.hackingarticles.in/silky-ctf-0x01-vulnhub-walkthrough/)
 6.	[symfonos : 1](https://www.hackingarticles.in/symfonos1-vulnhub-walkthrough/)
