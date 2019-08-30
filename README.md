@@ -77,12 +77,11 @@ Table of Contents
 |5|[DC-1](https://www.hackingarticles.in/dc-1-vulnhub-walkthrough/)|find|
 |6|[dpwwn:2](https://www.hackingarticles.in/dpwwn2-vulnhub-walkthrough/)|find|
 |7|[MinU: v2](https://www.hackingarticles.in/minu-v2-vulnhub-walkthrough/)|Micro Editor|
-|8|[Toppo:1](https://www.hackingarticles.in/hack-the-toppo1-vm-ctf-challenges/)|python 2.7|
+|8|[Toppo:1](https://www.hackingarticles.in/hack-the-toppo1-vm-ctf-challenges/)|python 2.7 & mawk|
 |9|[Mr. Robot](https://www.hackingarticles.in/hack-mr-robot-vm-ctf-challenge/)|nmap|
-|10|[Tr0ll 1](https://www.hackingarticles.in/hack-the-troll-1-vm-boot-to-root/)|script|
-|11|[Covfefe](https://www.hackingarticles.in/hack-covfefe-vm-ctf-challenge/)|script|
-|12|[/dev/random : K2](https://www.hackingarticles.in/hack-the-dev-random-k2-vm-boot2root-challenge/)|script|
-|13|[hackme1](https://www.hackingarticles.in/hackme-1-vulnhub-walkthrough/)|script|
+|10|[Covfefe](https://www.hackingarticles.in/hack-covfefe-vm-ctf-challenge/)|script|
+|11|[/dev/random : K2](https://www.hackingarticles.in/hack-the-dev-random-k2-vm-boot2root-challenge/)|script|
+|12|[hackme1](https://www.hackingarticles.in/hackme-1-vulnhub-walkthrough/)|script|
 <a name="kernel"></a>
 ## Kernel Exploit
 
@@ -212,6 +211,7 @@ Table of Contents
 10. [Nezuko:1](https://www.hackingarticles.in/nezuko-1-vulnhub-walkthrough/)
 11. [Symfonos:3](https://www.hackingarticles.in/symfonos3-vulnhub-walkthrough/)
 12. [AI: Web: 1](https://www.hackingarticles.in/ai-web-1-vulnhub-walkthrough/)
+13. [Tr0ll 1](https://www.hackingarticles.in/hack-the-troll-1-vm-boot-to-root/)
 <a name="buffer"></a>
 ## Buffer Overflow
 
