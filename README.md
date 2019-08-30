@@ -50,7 +50,7 @@ Table of Contents
 |16|[Wakanda : 1](https://www.hackingarticles.in/hack-the-wakanda-1-ctf-chAllenge/)|pip|
 |17|[Violator](https://www.hackingarticles.in/hack-the-violator-ctf-chAllenge/)|proftpd|
 |18|[Torment](https://www.hackingarticles.in/digitalworld-localtorment-vulnhub-walkthrough/)|python|
-|19|[Broken: Gallery](https://www.hackingarticles.in/broken-gAllery-vulnhub-walkthrough/)|reboot & timedatectl|
+|19|[Broken: Gallery](https://www.hackingarticles.in/broken-gAllery-vulnhub-walkthrough/)|reboot/timedatectl|
 |20|[DE-ICE:S1.120](https://www.hackingarticles.in/hack-the-de-ice-s1-120-vm-boot-to-root/)|script|
 |21|[Fristileaks](https://www.hackingarticles.in/hack-fristileaks-vm-ctf-chAllenge/)|script|
 |22|[DerpNStink](https://www.hackingarticles.in/hack-the-derpnstink-vm-ctf-chAllenge/)|script|
@@ -77,7 +77,7 @@ Table of Contents
 |5|[DC-1](https://www.hackingarticles.in/dc-1-vulnhub-walkthrough/)|find|
 |6|[dpwwn:2](https://www.hackingarticles.in/dpwwn2-vulnhub-walkthrough/)|find|
 |7|[MinU: v2](https://www.hackingarticles.in/minu-v2-vulnhub-walkthrough/)|Micro Editor|
-|8|[Toppo:1](https://www.hackingarticles.in/hack-the-toppo1-vm-ctf-challenges/)|python 2.7 & mawk|
+|8|[Toppo:1](https://www.hackingarticles.in/hack-the-toppo1-vm-ctf-challenges/)|python 2.7/mawk|
 |9|[Mr. Robot](https://www.hackingarticles.in/hack-mr-robot-vm-ctf-challenge/)|nmap|
 |10|[Covfefe](https://www.hackingarticles.in/hack-covfefe-vm-ctf-challenge/)|script|
 |11|[/dev/random : K2](https://www.hackingarticles.in/hack-the-dev-random-k2-vm-boot2root-challenge/)|script|
