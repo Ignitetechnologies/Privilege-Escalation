@@ -25,6 +25,7 @@ Table of Contents
 * [Chkrootkit](#chkrootkit)
 * [Bruteforce](#bruteforce)
 * [Crack /etc/shadow](#shadow)
+* [NFS](#nfs)
 
 <a name="sudo"></a>
 ## Abusing Sudo Rights
@@ -102,18 +103,20 @@ Table of Contents
 |14.|[Golden Eye:1](https://www.hackingarticles.in/hack-the-golden-eye1-ctf-challenge/)|Ubuntu 12.04/14.04/14.10/15.04|[37292](https://www.exploit-db.com/exploits/37292)|
 |15.|[Typhoon : 1.02](https://www.hackingarticles.in/typhoon-1-02-vulnhub-walkthrough/)|Ubuntu 12.04/14.04/14.10/15.04|[37292](https://www.exploit-db.com/exploits/37292)|
 |16.|[GrimTheRipper:1](https://www.hackingarticles.in/grimtheripper-1-vulnhub-walkthrough/)|Ubuntu 12.04/14.04/14.10/15.04|[37292](https://www.exploit-db.com/exploits/37292)|
-|17.|[Lord of the Root](https://www.hackingarticles.in/hack-lord-root-vm-ctf-challenge/)|Ubuntu 14.04/15.10| [39166](https://www.exploit-db.com/exploits/39166)|
-|18.|[Acid Reloaded](https://www.hackingarticles.in/hack-acid-reloaded-vm-ctf-challenge/)|Ubuntu 14.04/15.10|[39166](https://www.exploit-db.com/exploits/39166)|
-|19.|[Stapler](https://www.hackingarticles.in/hack-stapler-vm-ctf-challenge/)|Ubuntu 16.04|[39772](https://www.exploit-db.com/exploits/39772)|
-|20.|[Sidney](https://www.hackingarticles.in/hack-sydney-vm-ctf-challenge/)|Ubuntu 16.04|[39772](https://www.exploit-db.com/exploits/39772)|
-|21.|[DC-3](https://www.hackingarticles.in/dc-3-walkthrough/)|Ubuntu 16.04|[39772](https://www.exploit-db.com/exploits/39772)|
-|22.|[Pluck](https://www.hackingarticles.in/hack-pluck-vm-ctf-challenge/)|Dirty COW|[40616](https://www.exploit-db.com/exploits/40616)|
-|23.|[Lampiao : 1](https://www.hackingarticles.in/hack-the-lampiao-1-ctf-challenge/)|Dirty COW /proc/self/mem' Race Condition|[40847](https://www.exploit-db.com/exploits/40847)|
-|24.|[WinterMute : 1](https://www.hackingarticles.in/hack-the-wintermute-1-ctf-challenge/)|GNU Screen 4.5.0|[41154](https://www.exploit-db.com/exploits/41154)|
-|25.|[DC-5](https://www.hackingarticles.in/dc-5-vulnhub-walkthrough/)|GNU Screen 4.5.0|[41154](https://www.exploit-db.com/exploits/41154)|
-|26.|[BTRSys:dv 2.1](https://www.hackingarticles.in/hack-btrsys-v2-1-vm-boot2root-challenge/)|Linux Kernel 4.4.0 (Ubuntu) - DCCP Double-Free|[41458](https://www.exploit-db.com/exploits/41458)|
-|27.|[Nightmare](https://www.hackingarticles.in/hack-the-box-nightmare-walkthrough/)|Ubuntu 14.04/16.04 (KASLR / SMEP)|[43418](https://www.exploit-db.com/exploits/43418)|
-|28.|[Trollcave](https://www.hackingarticles.in/hack-the-trollcave-vm-boot-to-root/)|Linux Kernel < 4.4.0-116 (Ubuntu 16.04.4)|[44298](https://www.exploit-db.com/exploits/44298)|
+|17.|[6days](https://www.hackingarticles.in/hack-6days-vm-ctf-challenge/)|Ubuntu 12.04/14.04/14.10/15.04|[37292](https://www.exploit-db.com/exploits/37292)|
+|18.|[Lord of the Root](https://www.hackingarticles.in/hack-lord-root-vm-ctf-challenge/)|Ubuntu 14.04/15.10| [39166](https://www.exploit-db.com/exploits/39166)|
+|19.|[Acid Reloaded](https://www.hackingarticles.in/hack-acid-reloaded-vm-ctf-challenge/)|Ubuntu 14.04/15.10|[39166](https://www.exploit-db.com/exploits/39166)|
+|20.|[Stapler](https://www.hackingarticles.in/hack-stapler-vm-ctf-challenge/)|Ubuntu 16.04|[39772](https://www.exploit-db.com/exploits/39772)|
+|21.|[Sidney](https://www.hackingarticles.in/hack-sydney-vm-ctf-challenge/)|Ubuntu 16.04|[39772](https://www.exploit-db.com/exploits/39772)|
+|22.|[DC-3](https://www.hackingarticles.in/dc-3-walkthrough/)|Ubuntu 16.04|[39772](https://www.exploit-db.com/exploits/39772)|
+|23.|[Pluck](https://www.hackingarticles.in/hack-pluck-vm-ctf-challenge/)|Dirty COW|[40616](https://www.exploit-db.com/exploits/40616)|
+|24.|[Lampiao : 1](https://www.hackingarticles.in/hack-the-lampiao-1-ctf-challenge/)|Dirty COW /proc/self/mem' Race Condition|[40847](https://www.exploit-db.com/exploits/40847)|
+|25.|[WinterMute : 1](https://www.hackingarticles.in/hack-the-wintermute-1-ctf-challenge/)|GNU Screen 4.5.0|[41154](https://www.exploit-db.com/exploits/41154)|
+|26.|[DC-5](https://www.hackingarticles.in/dc-5-vulnhub-walkthrough/)|GNU Screen 4.5.0|[41154](https://www.exploit-db.com/exploits/41154)|
+|27.|[BTRSys:dv 2.1](https://www.hackingarticles.in/hack-btrsys-v2-1-vm-boot2root-challenge/)|Linux Kernel 4.4.0 (Ubuntu) - DCCP Double-Free|[41458](https://www.exploit-db.com/exploits/41458)|
+|28.|[Nightmare](https://www.hackingarticles.in/hack-the-box-nightmare-walkthrough/)|Ubuntu 14.04/16.04 (KASLR / SMEP)|[43418](https://www.exploit-db.com/exploits/43418)|
+|29.|[Trollcave](https://www.hackingarticles.in/hack-the-trollcave-vm-boot-to-root/)|Linux Kernel < 4.4.0-116 (Ubuntu 16.04.4)|[44298](https://www.exploit-db.com/exploits/44298)|
+
 <a name="path"></a>
 ## Path Variable
 
@@ -123,6 +126,7 @@ Table of Contents
 |2.| [USV](https://www.hackingarticles.in/hack-usv-vm-ctf-challenge/)             | cat    |
 |3.| [Zeus:1](https://www.hackingarticles.in/zeus1-vulnhub-walkthrough/)| date   |
 |4.| [The Gemini inc](https://www.hackingarticles.in/hack-the-gemini-inc-ctf-challenge/)  | date   |
+|5.| [EW-Skuzzy](https://www.hackingarticles.in/hack-ew-skuzzy-vm-ctf-challenge/)|id|
 |5.| [Nullbyte](https://www.hackingarticles.in/hack-nullbyte-vm-ctf-challenge/) | ps     |
 |6.| [symfonos : 1](https://www.hackingarticles.in/symfonos1-vulnhub-walkthrough/)| curl   |
 |7.| [Silky-CTF: 0x01](https://www.hackingarticles.in/silky-ctf-0x01-vulnhub-walkthrough/) | whoami |
@@ -139,7 +143,7 @@ Table of Contents
 | 5.   | [Xerxes: 1](https://www.hackingarticles.in/xerxes-1-vulnhub-walkthrough/)                                             |
 | 6.   | [pWnOS -2.0](https://www.hackingarticles.in/hack-the-pwnos-2-0-boot-2-root-challenge/)                                |
 | 7.   | [DE-ICE:S1.130](https://www.hackingarticles.in/hack-the-de-ice-s1-130-boot2root-challenge/)                   |                                          | 8.   | [SickOS 1.1](https://www.hackingarticles.in/hack-sickos-1-1-vm-ctf-challenge/)                              |          
-| 9.  | [Tommyboy](https://www.hackingarticles.in/hack-tommyboy-vm-ctf-challenge/)                                    |
+| 9.   | [Tommyboy](https://www.hackingarticles.in/hack-tommyboy-vm-ctf-challenge/)                                    |
 | 10.  | [VulnOS: 1](https://www.hackingarticles.in/hack-the-vulnos-1-ctf-challenge/)                                          |
 | 11.  | [Spyder Sec](https://www.hackingarticles.in/hack-spydersec-vm-ctf-challenge/)                                         |
 | 12.  | [Acid](https://www.hackingarticles.in/hack-acid-vm-ctf-challenge/)                                                    |
@@ -165,6 +169,9 @@ Table of Contents
 | 32.  | [Born2Root: 2](https://www.hackingarticles.in/born2root-2-vulnhub-walkthrough/)|
 | 33.  | [CLAMP 1.0.1](https://www.hackingarticles.in/clamp-1-0-1-vulnhub-walkthrough/)|
 | 34.  | [WestWild: 1.1](https://www.hackingarticles.in/westwild-1-1-vulnhub-walkthorugh/)|
+| 35.  | [64base](https://www.hackingarticles.in/hack-64base-vm-ctf-challenge/)|
+| 36.  | [C0m80](https://www.hackingarticles.in/hack-c0m80-vm-boot2root-challenge/)|
+| 37.  | [Gibson](https://www.hackingarticles.in/hack-gibson-vm-ctf-challenge/)|
 
 <a name="mysql"></a>
 ## MySQL
@@ -237,6 +244,8 @@ Table of Contents
 |4.	 |[PinkyPalace](https://www.hackingarticles.in/hack-the-pinkypalace-vm-ctf-challenge/)|
 |5.	 |[ROP Primer](https://www.hackingarticles.in/hack-the-rop-primer-1-0-1-ctf-challenge/)|
 |6.  |[CTF KFIOFAN:2](https://www.hackingarticles.in/ctf-kfiofan-2-vulnhub-walkthorugh/)|
+|7.  |[Kioptrix : Level 1](https://www.hackingarticles.in/hack-the-kioptrix-level-1/)|
+|8.  |[Quaoar](https://www.hackingarticles.in/hack-quaoar-vm-ctf-challenge/)|
 <a name="docker"></a>
 
 ## Docker
@@ -270,3 +279,10 @@ Table of Contents
 |3.  |[Moonraker:1](https://www.hackingarticles.in/moonraker1-vulnhub-walkthrough/)|
 |4.  |[Basic Penetration](https://www.hackingarticles.in/hack-the-basic-penetration-vm-boot2root-challenge/)|
 |5.  |[W1R3S.inc](https://www.hackingarticles.in/hack-the-w1r3s-inc-vm-ctf-challenge/)|
+
+<a name="nfs"></a>
+## NFS
+| No | Machine Name                                                                                            |
+|----|---------------------------------------------------------------------------------------------------------|
+|1.  |[Orcus](https://www.hackingarticles.in/hack-orcus-vm-ctf-challenge/)|
+|2.  |[FourAndSix](https://www.hackingarticles.in/hack-the-fourandsix-ctf-challenge/)|
