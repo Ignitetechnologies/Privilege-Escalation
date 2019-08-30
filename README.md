@@ -41,24 +41,24 @@ Table of Contents
 |7|[Sunset](https://www.hackingarticles.in/sunset-vulnhub-walkthrough/)|ed|
 |8|[DC-2](https://www.hackingarticles.in/dc-2-walkthrough/)|git|
 |9|[Kioptrix : Level 1.2](https://www.hackingarticles.in/hack-the-kioptrix-level-1-2-boot2root-chAllenge/)|ht|
-|11|[Matrix-3](https://www.hackingarticles.in/matrix-3-vulnhub-walkthrough/)|manual|
-|12|[symfonos : 2](https://www.hackingarticles.in/symfonos2-vulnhub-walkthrough/)|MySQL|
-|13|[Development](https://www.hackingarticles.in/development-vulnhub-walkthrough/)|nano|
-|14|[SP ike](https://www.hackingarticles.in/sp-ike-vulnhub-lab-walkthrough/)|nmap|
-|15|[DC6](https://www.hackingarticles.in/dc6-lab-walkthrough/)|nmap|
-|16|[Dina](https://www.hackingarticles.in/hack-dina-vm-ctf-chAllenge/)|perl|
-|17|[Wakanda : 1](https://www.hackingarticles.in/hack-the-wakanda-1-ctf-chAllenge/)|pip|
-|18|[Violator](https://www.hackingarticles.in/hack-the-violator-ctf-chAllenge/)|proftpd|
-|19|[Torment](https://www.hackingarticles.in/digitalworld-localtorment-vulnhub-walkthrough/)|python|
-|20|[Broken: Gallery](https://www.hackingarticles.in/broken-gAllery-vulnhub-walkthrough/)|reboot & timedatectl|
-|21|[DE-ICE:S1.120](https://www.hackingarticles.in/hack-the-de-ice-s1-120-vm-boot-to-root/)|script|
-|22|[Fristileaks](https://www.hackingarticles.in/hack-fristileaks-vm-ctf-chAllenge/)|script|
-|23|[DerpNStink](https://www.hackingarticles.in/hack-the-derpnstink-vm-ctf-chAllenge/)|script|
-|24|[Digitalworld.local : JOY](https://www.hackingarticles.in/digitalworld-local-joy-vulnhub-walkthrough/)|script|
-|25|[PumpkinFestival](https://www.hackingarticles.in/mission-pumpkin-v1-0-pumpkinfestival-vulnhub-walkthrough/)|script|
-|26|[The Ether: Evil Science](https://www.hackingarticles.in/hack-ether-evilscience-vm-ctf-chAllenge/)|script|
-|27|[PumpkinRaising](https://www.hackingarticles.in/pumpkinraising-vulnhub-walkthrough/)|strace|
-|25|[Unknowndevice64 : 1](https://www.hackingarticles.in/unknowndevice64-1-vulnhub-lab-walkthrough/)|strace|
+|10|[Matrix-3](https://www.hackingarticles.in/matrix-3-vulnhub-walkthrough/)|manual|
+|11|[symfonos : 2](https://www.hackingarticles.in/symfonos2-vulnhub-walkthrough/)|MySQL|
+|12|[Development](https://www.hackingarticles.in/development-vulnhub-walkthrough/)|nano|
+|13|[SP ike](https://www.hackingarticles.in/sp-ike-vulnhub-lab-walkthrough/)|nmap|
+|14|[DC6](https://www.hackingarticles.in/dc6-lab-walkthrough/)|nmap|
+|15|[Dina](https://www.hackingarticles.in/hack-dina-vm-ctf-chAllenge/)|perl|
+|16|[Wakanda : 1](https://www.hackingarticles.in/hack-the-wakanda-1-ctf-chAllenge/)|pip|
+|17|[Violator](https://www.hackingarticles.in/hack-the-violator-ctf-chAllenge/)|proftpd|
+|18|[Torment](https://www.hackingarticles.in/digitalworld-localtorment-vulnhub-walkthrough/)|python|
+|19|[Broken: Gallery](https://www.hackingarticles.in/broken-gAllery-vulnhub-walkthrough/)|reboot & timedatectl|
+|20|[DE-ICE:S1.120](https://www.hackingarticles.in/hack-the-de-ice-s1-120-vm-boot-to-root/)|script|
+|21|[Fristileaks](https://www.hackingarticles.in/hack-fristileaks-vm-ctf-chAllenge/)|script|
+|22|[DerpNStink](https://www.hackingarticles.in/hack-the-derpnstink-vm-ctf-chAllenge/)|script|
+|23|[Digitalworld.local : JOY](https://www.hackingarticles.in/digitalworld-local-joy-vulnhub-walkthrough/)|script|
+|24|[PumpkinFestival](https://www.hackingarticles.in/mission-pumpkin-v1-0-pumpkinfestival-vulnhub-walkthrough/)|script|
+|25|[The Ether: Evil Science](https://www.hackingarticles.in/hack-ether-evilscience-vm-ctf-chAllenge/)|script|
+|26|[PumpkinRaising](https://www.hackingarticles.in/pumpkinraising-vulnhub-walkthrough/)|strace|
+|27|[Unknowndevice64 : 1](https://www.hackingarticles.in/unknowndevice64-1-vulnhub-lab-walkthrough/)|strace|
 |28|[Holynix: v1](https://www.hackingarticles.in/hack-the-holynix-v1-boot-2-root-chAllenge/)|tar|
 |29|[Breach 2.1](https://www.hackingarticles.in/hack-breach-2-1-vm-ctf-chAllenge/)|tcpdump|
 |30|[Temple of Doom](https://www.hackingarticles.in/hack-the-temple-of-doom-ctf-chAllenge/)|tcpdump|
