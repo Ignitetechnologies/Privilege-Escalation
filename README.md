@@ -18,13 +18,13 @@ Table of Contents
 * [Crontab](#crontab)
 * [Wildcard Injection](#wild)
 * [Capabilities](#capabilities)
-* [Writable etc/passwd file](#etc)
+* [Writable /etc/passwd file](#etc)
 * [Writable files or script as root](#root)
 * [Buffer Overflow](#buffer)
 * [Docker](#docker)
 * [Chkrootkit](#chkrootkit)
 * [Bruteforce](#bruteforce)
-* [Crack etc/shadow](#shadow)
+* [Crack /etc/shadow](#shadow)
 
 <a name="sudo"></a>
 ## Abusing Sudo Rights
