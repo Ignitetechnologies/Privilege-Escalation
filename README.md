@@ -139,28 +139,28 @@ Table of Contents
 | 5.   | [Xerxes: 1](https://www.hackingarticles.in/xerxes-1-vulnhub-walkthrough/)                                             |
 | 6.   | [pWnOS -2.0](https://www.hackingarticles.in/hack-the-pwnos-2-0-boot-2-root-challenge/)                                |
 | 7.   | [DE-ICE:S1.130](https://www.hackingarticles.in/hack-the-de-ice-s1-130-boot2root-challenge/)                           |
-| 9.   | [Hackademic-RTB2](https://www.hackingarticles.in/hack-the-hackademic-rtb2-boot2root/)                                 |
-| 10.  | [SickOS 1.1](https://www.hackingarticles.in/hack-sickos-1-1-vm-ctf-challenge/)                                        |
-| 11.  | [Tommyboy](https://www.hackingarticles.in/hack-tommyboy-vm-ctf-challenge/)                                            |
-| 13.  | [VulnOS: 1](https://www.hackingarticles.in/hack-the-vulnos-1-ctf-challenge/)                                          |
-| 14.  | [Spyder Sec](https://www.hackingarticles.in/hack-spydersec-vm-ctf-challenge/)                                         |
-| 15.  | [Acid](https://www.hackingarticles.in/hack-acid-vm-ctf-challenge/)                                                    |
-| 16.  | [Necromancer](https://www.hackingarticles.in/hack-necromancer-vm-ctf-challenge/)                                      |
-| 17.  | [Freshly](https://www.hackingarticles.in/hack-freshly-vm-ctf-challenge/)                                              |
-| 18.  | [Fortress](https://www.hackingarticles.in/hack-fortress-vm-ctf-challenge/)                                            |
-| 19.  | [Billu : B0x](https://www.hackingarticles.in/hack-billu-b0x-vm-boot2root-challenge/)                                  |
-| 20.  | [Defence Space](https://www.hackingarticles.in/hack-the-defense-space-vm-ctf-challengehack-defense-vm-ctf-challenge/) |
-| 21.  | [Moria 1.1](https://www.hackingarticles.in/hack-moria-1-1-ctf-challenge/)                                             |
-| 22.  | [Analougepond](https://www.hackingarticles.in/hack-analougepond-vm-ctf-challenge/)                                    |
-| 23.  | [Lazysysadmin](https://www.hackingarticles.in/hack-lazysysadmin-vm-ctf-challenge/)                                    |
-| 24.  | [Bulldog](https://www.hackingarticles.in/hack-bulldog-vm-boot2root-challenge/)                                        |
-| 25.  | [BTRSys 1](https://www.hackingarticles.in/hack-btrsys1-vm-boot2root-challenge/)                                       |
-| 26.  | [G0rmint](https://www.hackingarticles.in/hack-g0rmint-vm-ctf-challenge/)                                              |
-| 27.  | [Blacklight : 1](https://www.hackingarticles.in/hack-the-blacklight-1-ctf-challenge/)                                 |
-| 28.  | [The blackmarket](https://www.hackingarticles.in/hack-the-blackmarket-vm-ctf-chAllenge/)                              |
-| 29.  | [Cyberry:1](https://hackingarticles.in/hack-vm-cyberry-1boot2root-challenge/)                                         |
-| 30.  | [Matrix 2](https://www.hackingarticles.in/matrix-2-vulnhub-lab-walkthrough/)                                          | 
-| 31.  | [Basic Pentesting : 2](https://www.hackingarticles.in/hack-the-basic-pentesting2-vm-ctf-chAllenge/)                   |
+| 8.   | [Hackademic-RTB2](https://www.hackingarticles.in/hack-the-hackademic-rtb2-boot2root/)                                 |
+| 9.  | [SickOS 1.1](https://www.hackingarticles.in/hack-sickos-1-1-vm-ctf-challenge/)                                        |
+| 10.  | [Tommyboy](https://www.hackingarticles.in/hack-tommyboy-vm-ctf-challenge/)                                            |
+| 11.  | [VulnOS: 1](https://www.hackingarticles.in/hack-the-vulnos-1-ctf-challenge/)                                          |
+| 12.  | [Spyder Sec](https://www.hackingarticles.in/hack-spydersec-vm-ctf-challenge/)                                         |
+| 13.  | [Acid](https://www.hackingarticles.in/hack-acid-vm-ctf-challenge/)                                                    |
+| 14.  | [Necromancer](https://www.hackingarticles.in/hack-necromancer-vm-ctf-challenge/)                                      |
+| 15.  | [Freshly](https://www.hackingarticles.in/hack-freshly-vm-ctf-challenge/)                                              |
+| 16.  | [Fortress](https://www.hackingarticles.in/hack-fortress-vm-ctf-challenge/)                                            |
+| 17.  | [Billu : B0x](https://www.hackingarticles.in/hack-billu-b0x-vm-boot2root-challenge/)                                  |
+| 18.  | [Defence Space](https://www.hackingarticles.in/hack-the-defense-space-vm-ctf-challengehack-defense-vm-ctf-challenge/) |
+| 19.  | [Moria 1.1](https://www.hackingarticles.in/hack-moria-1-1-ctf-challenge/)                                             |
+| 20.  | [Analougepond](https://www.hackingarticles.in/hack-analougepond-vm-ctf-challenge/)                                    |
+| 21.  | [Lazysysadmin](https://www.hackingarticles.in/hack-lazysysadmin-vm-ctf-challenge/)                                    |
+| 22.  | [Bulldog](https://www.hackingarticles.in/hack-bulldog-vm-boot2root-challenge/)                                        |
+| 23.  | [BTRSys 1](https://www.hackingarticles.in/hack-btrsys1-vm-boot2root-challenge/)                                       |
+| 24.  | [G0rmint](https://www.hackingarticles.in/hack-g0rmint-vm-ctf-challenge/)                                              |
+| 25.  | [Blacklight : 1](https://www.hackingarticles.in/hack-the-blacklight-1-ctf-challenge/)                                 |
+| 26.  | [The blackmarket](https://www.hackingarticles.in/hack-the-blackmarket-vm-ctf-chAllenge/)                              |
+| 27.  | [Cyberry:1](https://hackingarticles.in/hack-vm-cyberry-1boot2root-challenge/)                                         |
+| 28.  | [Matrix 2](https://www.hackingarticles.in/matrix-2-vulnhub-lab-walkthrough/)                                          | 
+| 29.  | [Basic Pentesting : 2](https://www.hackingarticles.in/hack-the-basic-pentesting2-vm-ctf-chAllenge/)                   |
 
 <a name="mysql"></a>
 ## MySQL
