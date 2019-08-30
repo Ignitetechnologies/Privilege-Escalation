@@ -164,6 +164,15 @@ Table of Contents
 30.	[Cyberry:1](https://hackingarticles.in/hack-vm-cyberry-1boot2root-challenge/)
 31. [Moonraker:1](https://www.hackingarticles.in/moonraker1-vulnhub-walkthrough/)
 32. [Matrix 2](https://www.hackingarticles.in/matrix-2-vulnhub-lab-walkthrough/)
+33. [RickdiculouslyEasy](https://www.hackingarticles.in/hack-rickdiculouslyeasy-vm-ctf-chAllenge/)
+34. [Depth](https://www.hackingarticles.in/hack-depth-vm-ctf-chAllenge/)
+35. [Basic penetration](https://www.hackingarticles.in/hack-the-basic-penetration-vm-boot2root-chAllenge/)
+36. [Bob:1.0.1](https://www.hackingarticles.in/hack-the-bob-1-0-1-vm-ctf-challenge/)
+37. [W34n3ss 1](https://www.hackingarticles.in/w34kn3ss-1-vulnhub-lab-walkthrough/)
+38. [Replay : 1](https://www.hackingarticles.in/replay-1-vulnhub-lab-walkthrough/)
+39. [Born2Root2](https://www.hackingarticles.in/born2root-2-vulnhub-walkthrough/)
+40. [WestWild: 1.1](https://www.hackingarticles.in/westwild-1-1-vulnhub-walkthorugh/)
+41. [CLAMP 1.0.1](https://www.hackingarticles.in/clamp-1-0-1-vulnhub-walkthrough/)
 <a name="mysql"></a>
 ## MySQL
 
