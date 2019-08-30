@@ -24,6 +24,7 @@ Table of Contents
 * [Docker](#docker)
 * [Chkrootkit](#chkrootkit)
 * [Bruteforce](#bruteforce)
+* [Crack etc/shadow](#shadow)
 
 <a name="sudo"></a>
 ## Abusing Sudo Rights
@@ -47,24 +48,23 @@ Table of Contents
 |14|[SP ike](https://www.hackingarticles.in/sp-ike-vulnhub-lab-walkthrough/)|nmap|
 |15|[DC6](https://www.hackingarticles.in/dc6-lab-walkthrough/)|nmap|
 |16|[Dina](https://www.hackingarticles.in/hack-dina-vm-ctf-chAllenge/)|perl|
-|17|[Violator](https://www.hackingarticles.in/hack-the-violator-ctf-chAllenge/)|python|
-|18|[Torment](https://www.hackingarticles.in/digitalworld-localtorment-vulnhub-walkthrough/)|python|
-|19|[Broken: Gallery](https://www.hackingarticles.in/broken-gAllery-vulnhub-walkthrough/)|reboot|
-|20|[DE-ICE:S1.120](https://www.hackingarticles.in/hack-the-de-ice-s1-120-vm-boot-to-root/)|script|
-|21|[Fristileaks](https://www.hackingarticles.in/hack-fristileaks-vm-ctf-chAllenge/)|script|
-|22|[DerpNStink](https://www.hackingarticles.in/hack-the-derpnstink-vm-ctf-chAllenge/)|script|
-|23|[Basic Pentesting : 2](https://www.hackingarticles.in/hack-the-basic-pentesting2-vm-ctf-chAllenge/)|script|
-|24|[Wakanda : 1](https://www.hackingarticles.in/hack-the-wakanda-1-ctf-chAllenge/)|script|
-|25|[Digitalworld.local : JOY](https://www.hackingarticles.in/digitalworld-local-joy-vulnhub-walkthrough/)|script|
-|26|[PumpkinFestival](https://www.hackingarticles.in/mission-pumpkin-v1-0-pumpkinfestival-vulnhub-walkthrough/)|script|
-|27|[The Ether: Evil Science](https://www.hackingarticles.in/hack-ether-evilscience-vm-ctf-chAllenge/)|script|
-|28|[PumpkinRaising](https://www.hackingarticles.in/pumpkinraising-vulnhub-walkthrough/)|strace|
-|29|[Holynix: v1](https://www.hackingarticles.in/hack-the-holynix-v1-boot-2-root-chAllenge/)|tar|
-|30|[Breach 2.1](https://www.hackingarticles.in/hack-breach-2-1-vm-ctf-chAllenge/)|tcpdump|
-|31|[Temple of Doom](https://www.hackingarticles.in/hack-the-temple-of-doom-ctf-chAllenge/)|tcpdump|
-|32|[Web Developer : 1](https://www.hackingarticles.in/web-developer-1-vulnhub-lab-walkthrough/)|tcpdump|
-|33|[DC-4](https://www.hackingarticles.in/dc-4-vulnhub-walkthrough/)|teehee|
-|34|[Zico 2](https://www.hackingarticles.in/hack-zico2-vm-ctf-chAllenge/)|zip|
+|17|[Wakanda : 1](https://www.hackingarticles.in/hack-the-wakanda-1-ctf-chAllenge/)|pip|
+|18|[Violator](https://www.hackingarticles.in/hack-the-violator-ctf-chAllenge/)|python|
+|19|[Torment](https://www.hackingarticles.in/digitalworld-localtorment-vulnhub-walkthrough/)|python|
+|20|[Broken: Gallery](https://www.hackingarticles.in/broken-gAllery-vulnhub-walkthrough/)|reboot & timedatectl|
+|21|[DE-ICE:S1.120](https://www.hackingarticles.in/hack-the-de-ice-s1-120-vm-boot-to-root/)|script|
+|22|[Fristileaks](https://www.hackingarticles.in/hack-fristileaks-vm-ctf-chAllenge/)|script|
+|23|[DerpNStink](https://www.hackingarticles.in/hack-the-derpnstink-vm-ctf-chAllenge/)|script|
+|24|[Digitalworld.local : JOY](https://www.hackingarticles.in/digitalworld-local-joy-vulnhub-walkthrough/)|script|
+|25|[PumpkinFestival](https://www.hackingarticles.in/mission-pumpkin-v1-0-pumpkinfestival-vulnhub-walkthrough/)|script|
+|26|[The Ether: Evil Science](https://www.hackingarticles.in/hack-ether-evilscience-vm-ctf-chAllenge/)|script|
+|27|[PumpkinRaising](https://www.hackingarticles.in/pumpkinraising-vulnhub-walkthrough/)|strace|
+|28|[Holynix: v1](https://www.hackingarticles.in/hack-the-holynix-v1-boot-2-root-chAllenge/)|tar|
+|29|[Breach 2.1](https://www.hackingarticles.in/hack-breach-2-1-vm-ctf-chAllenge/)|tcpdump|
+|30|[Temple of Doom](https://www.hackingarticles.in/hack-the-temple-of-doom-ctf-chAllenge/)|tcpdump|
+|31|[Web Developer : 1](https://www.hackingarticles.in/web-developer-1-vulnhub-lab-walkthrough/)|tcpdump|
+|32|[DC-4](https://www.hackingarticles.in/dc-4-vulnhub-walkthrough/)|teehee|
+|33|[Zico 2](https://www.hackingarticles.in/hack-zico2-vm-ctf-chAllenge/)|zip|
 <a name="suid"></a>
 ## SUID Bit
 
@@ -163,6 +163,7 @@ Table of Contents
 29.	[Cyberry:1](https://hackingarticles.in/hack-vm-cyberry-1boot2root-challenge/)
 30. [Moonraker:1](https://www.hackingarticles.in/moonraker1-vulnhub-walkthrough/)
 31. [Matrix 2](https://www.hackingarticles.in/matrix-2-vulnhub-lab-walkthrough/)
+[Basic Pentesting : 2](https://www.hackingarticles.in/hack-the-basic-pentesting2-vm-ctf-chAllenge/)|script|
 <a name="mysql"></a>
 ## MySQL
 
@@ -234,8 +235,15 @@ Table of Contents
 1. [SickOS 1.2](https://www.hackingarticles.in/hack-the-sickos-1-2-vm-ctf-challenge/)
 2. [Sedna](https://www.hackingarticles.in/hack-sedna-vm-ctf-challenge/)
 
+<a name="bruteforce"></a>
 ## Bruteforce 
 
 1. [Rickdiculouslyeasy](https://www.hackingarticles.in/hack-rickdiculouslyeasy-vm-ctf-challenge/)
 2. [RootThis : 1](https://www.hackingarticles.in/vulnhub-rootthis-1-walkthrough/)
 3. [LAMPSecurity: CTF 8](https://www.hackingarticles.in/hack-the-lampsecurity-ctf8-ctf-challenge-2/)
+
+<a name="shadow"></a>
+## Crack etc/shadow
+
+1. [DE-ICE:S1.140](https://www.hackingarticles.in/hack-the-de-ice-s1-140-boot-to-root/)
+2. [Minotaur](https://www.hackingarticles.in/hack-minotaur-vm-ctf-challenge/)
