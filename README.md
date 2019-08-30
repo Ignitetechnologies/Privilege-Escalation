@@ -138,29 +138,33 @@ Table of Contents
 | 4.   | [LAMPSecurity: CTF 7](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-7-ctf-challenge/)                      |
 | 5.   | [Xerxes: 1](https://www.hackingarticles.in/xerxes-1-vulnhub-walkthrough/)                                             |
 | 6.   | [pWnOS -2.0](https://www.hackingarticles.in/hack-the-pwnos-2-0-boot-2-root-challenge/)                                |
-| 7.   | [DE-ICE:S1.130](https://www.hackingarticles.in/hack-the-de-ice-s1-130-boot2root-challenge/)                           |
-| 8.   | [Hackademic-RTB2](https://www.hackingarticles.in/hack-the-hackademic-rtb2-boot2root/)                                 |
-| 9.  | [SickOS 1.1](https://www.hackingarticles.in/hack-sickos-1-1-vm-ctf-challenge/)                                        |
-| 10.  | [Tommyboy](https://www.hackingarticles.in/hack-tommyboy-vm-ctf-challenge/)                                            |
-| 11.  | [VulnOS: 1](https://www.hackingarticles.in/hack-the-vulnos-1-ctf-challenge/)                                          |
-| 12.  | [Spyder Sec](https://www.hackingarticles.in/hack-spydersec-vm-ctf-challenge/)                                         |
-| 13.  | [Acid](https://www.hackingarticles.in/hack-acid-vm-ctf-challenge/)                                                    |
-| 14.  | [Necromancer](https://www.hackingarticles.in/hack-necromancer-vm-ctf-challenge/)                                      |
-| 15.  | [Freshly](https://www.hackingarticles.in/hack-freshly-vm-ctf-challenge/)                                              |
-| 16.  | [Fortress](https://www.hackingarticles.in/hack-fortress-vm-ctf-challenge/)                                            |
-| 17.  | [Billu : B0x](https://www.hackingarticles.in/hack-billu-b0x-vm-boot2root-challenge/)                                  |
-| 18.  | [Defence Space](https://www.hackingarticles.in/hack-the-defense-space-vm-ctf-challengehack-defense-vm-ctf-challenge/) |
-| 19.  | [Moria 1.1](https://www.hackingarticles.in/hack-moria-1-1-ctf-challenge/)                                             |
-| 20.  | [Analougepond](https://www.hackingarticles.in/hack-analougepond-vm-ctf-challenge/)                                    |
-| 21.  | [Lazysysadmin](https://www.hackingarticles.in/hack-lazysysadmin-vm-ctf-challenge/)                                    |
-| 22.  | [Bulldog](https://www.hackingarticles.in/hack-bulldog-vm-boot2root-challenge/)                                        |
-| 23.  | [BTRSys 1](https://www.hackingarticles.in/hack-btrsys1-vm-boot2root-challenge/)                                       |
-| 24.  | [G0rmint](https://www.hackingarticles.in/hack-g0rmint-vm-ctf-challenge/)                                              |
-| 25.  | [Blacklight : 1](https://www.hackingarticles.in/hack-the-blacklight-1-ctf-challenge/)                                 |
-| 26.  | [The blackmarket](https://www.hackingarticles.in/hack-the-blackmarket-vm-ctf-chAllenge/)                              |
-| 27.  | [Cyberry:1](https://hackingarticles.in/hack-vm-cyberry-1boot2root-challenge/)                                         |
-| 28.  | [Matrix 2](https://www.hackingarticles.in/matrix-2-vulnhub-lab-walkthrough/)                                          | 
-| 29.  | [Basic Pentesting : 2](https://www.hackingarticles.in/hack-the-basic-pentesting2-vm-ctf-chAllenge/)                   |
+| 7.   | [DE-ICE:S1.130](https://www.hackingarticles.in/hack-the-de-ice-s1-130-boot2root-challenge/)                   |                                          | 8.   | [SickOS 1.1](https://www.hackingarticles.in/hack-sickos-1-1-vm-ctf-challenge/)                              |          
+| 9.  | [Tommyboy](https://www.hackingarticles.in/hack-tommyboy-vm-ctf-challenge/)                                    |
+| 10.  | [VulnOS: 1](https://www.hackingarticles.in/hack-the-vulnos-1-ctf-challenge/)                                          |
+| 11.  | [Spyder Sec](https://www.hackingarticles.in/hack-spydersec-vm-ctf-challenge/)                                         |
+| 12.  | [Acid](https://www.hackingarticles.in/hack-acid-vm-ctf-challenge/)                                                    |
+| 13.  | [Necromancer](https://www.hackingarticles.in/hack-necromancer-vm-ctf-challenge/)                                      |
+| 14.  | [Freshly](https://www.hackingarticles.in/hack-freshly-vm-ctf-challenge/)                                              |
+| 15.  | [Fortress](https://www.hackingarticles.in/hack-fortress-vm-ctf-challenge/)                                            |
+| 16.  | [Billu : B0x](https://www.hackingarticles.in/hack-billu-b0x-vm-boot2root-challenge/)                                  |
+| 17.  | [Defence Space](https://www.hackingarticles.in/hack-the-defense-space-vm-ctf-challengehack-defense-vm-ctf-challenge/) |
+| 18.  | [Moria 1.1](https://www.hackingarticles.in/hack-moria-1-1-ctf-challenge/)                                             |
+| 19.  | [Analougepond](https://www.hackingarticles.in/hack-analougepond-vm-ctf-challenge/)                                    |
+| 20.  | [Lazysysadmin](https://www.hackingarticles.in/hack-lazysysadmin-vm-ctf-challenge/)                                    |
+| 21.  | [Bulldog](https://www.hackingarticles.in/hack-bulldog-vm-boot2root-challenge/)                                        |
+| 22.  | [BTRSys 1](https://www.hackingarticles.in/hack-btrsys1-vm-boot2root-challenge/)                                       |
+| 23.  | [G0rmint](https://www.hackingarticles.in/hack-g0rmint-vm-ctf-challenge/)                                              |
+| 24.  | [Blacklight : 1](https://www.hackingarticles.in/hack-the-blacklight-1-ctf-challenge/)                                 |
+| 25.  | [The blackmarket](https://www.hackingarticles.in/hack-the-blackmarket-vm-ctf-chAllenge/)  |                                                                      
+| 26.  | [Matrix 2](https://www.hackingarticles.in/matrix-2-vulnhub-lab-walkthrough/)                                          | 
+| 27.  | [Basic Pentesting : 2](https://www.hackingarticles.in/hack-the-basic-pentesting2-vm-ctf-chAllenge/)                   |
+| 28.  | [Depth](https://www.hackingarticles.in/hack-depth-vm-ctf-challenge/)|
+| 29.  | [Bob: 1.0.1](https://www.hackingarticles.in/hack-the-bob-1-0-1-vm-ctf-challenge/)|
+| 30.  | [W34kn3ss 1](https://www.hackingarticles.in/w34kn3ss-1-vulnhub-lab-walkthrough/)|
+| 31.  | [Replay: 1](https://www.hackingarticles.in/replay-1-vulnhub-lab-walkthrough/)|
+| 32.  | [Born2Root: 2](https://www.hackingarticles.in/born2root-2-vulnhub-walkthrough/)|
+| 33.  | [CLAMP 1.0.1](https://www.hackingarticles.in/clamp-1-0-1-vulnhub-walkthrough/)|
+| 34.  | [WestWild: 1.1](https://www.hackingarticles.in/westwild-1-1-vulnhub-walkthorugh/)|
 
 <a name="mysql"></a>
 ## MySQL
@@ -176,11 +180,10 @@ Table of Contents
 | No | Machine Name                                                                                            |
 |----|---------------------------------------------------------------------------------------------------------|
 |1.	 |[Billy Madison](https://www.hackingarticles.in/hack-billy-madison-vm-ctf-challenge/)                     |
-|2.	 |[Born2root](https://www.hackingarticles.in/hack-born2root-vm-ctf-challenge/) |
-|3.	 |[BSides Vancuver: 2018](https://www.hackingarticles.in/hack-the-bsides-vancouver2018-vm-boot2root-challenge/)|
-|4.	 |[Jarbas : 1](https://www.hackingarticles.in/hack-the-jarbas-1-ctf-challenge/)|
-|5.	 |[SP:Jerome](https://www.hackingarticles.in/spjerome-vulnhub-walkthrough/)|
-|6.  |[dpwwn: 1](https://www.hackingarticles.in/dpwwn-1-vulnhub-walkthrough/)|
+|2.	 |[BSides Vancuver: 2018](https://www.hackingarticles.in/hack-the-bsides-vancouver2018-vm-boot2root-challenge/)|
+|3.	 |[Jarbas : 1](https://www.hackingarticles.in/hack-the-jarbas-1-ctf-challenge/)|
+|4.	 |[SP:Jerome](https://www.hackingarticles.in/spjerome-vulnhub-walkthrough/)|
+|5.  |[dpwwn: 1](https://www.hackingarticles.in/dpwwn-1-vulnhub-walkthrough/)|
 
 <a name="wild"></a>
 ## Wildcard Injection
@@ -256,7 +259,8 @@ Table of Contents
 |1.  |[Rickdiculouslyeasy](https://www.hackingarticles.in/hack-rickdiculouslyeasy-vm-ctf-challenge/)|
 |2.  |[RootThis : 1](https://www.hackingarticles.in/vulnhub-rootthis-1-walkthrough/)|
 |3.  |[LAMPSecurity: CTF 8](https://www.hackingarticles.in/hack-the-lampsecurity-ctf8-ctf-challenge-2/)|
-
+|4.  |[Cyberry:1](https://hackingarticles.in/hack-vm-cyberry-1boot2root-challenge/)|
+|5.	 |[Born2root](https://www.hackingarticles.in/hack-born2root-vm-ctf-challenge/) |
 <a name="shadow"></a>
 ## Crack /etc/shadow
 | No | Machine Name                                                                                            |
