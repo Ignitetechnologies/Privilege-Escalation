@@ -3,6 +3,11 @@
 
 This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples. It is not a cheatsheet for Enumeration using Linux Commands. Privilege escalation is all about proper enumeration. There are multiple ways to perform the same tasks. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://www.linkedin.com/in/pavan2318).
 
+[1.1]: http://i.imgur.com/tXSoThF.png
+[1]: http://www.twitter.com/rajchandel
+# Follow us on [![alt text][1.1]][1]
+
+
 <a href="https://ibb.co/YBB2JqR"><img src="https://i.ibb.co/F446cjx/cheatsheet.jpg" alt="cheatsheet" border="0"></a>
 
 
@@ -65,6 +70,7 @@ Table of Contents
 |31.|[Web Developer : 1](https://www.hackingarticles.in/web-developer-1-vulnhub-lab-walkthrough/)|tcpdump|
 |32.|[DC-4](https://www.hackingarticles.in/dc-4-vulnhub-walkthrough/)|teehee|
 |33.|[Zico 2](https://www.hackingarticles.in/hack-zico2-vm-ctf-chAllenge/)|zip|
+
 <a name="suid"></a>
 ## SUID Bit
 
@@ -82,6 +88,7 @@ Table of Contents
 |10.|[Covfefe](https://www.hackingarticles.in/hack-covfefe-vm-ctf-challenge/)|script|
 |11.|[/dev/random : K2](https://www.hackingarticles.in/hack-the-dev-random-k2-vm-boot2root-challenge/)|script|
 |12.|[hackme1](https://www.hackingarticles.in/hackme-1-vulnhub-walkthrough/)|script|
+
 <a name="kernel"></a>
 ## Kernel Exploit
 
@@ -116,7 +123,6 @@ Table of Contents
 |27.|[BTRSys:dv 2.1](https://www.hackingarticles.in/hack-btrsys-v2-1-vm-boot2root-challenge/)|Linux Kernel 4.4.0 (Ubuntu) - DCCP Double-Free|[41458](https://www.exploit-db.com/exploits/41458)|
 |28.|[Nightmare](https://www.hackingarticles.in/hack-the-box-nightmare-walkthrough/)|Ubuntu 14.04/16.04 (KASLR / SMEP)|[43418](https://www.exploit-db.com/exploits/43418)|
 |29.|[Trollcave](https://www.hackingarticles.in/hack-the-trollcave-vm-boot-to-root/)|Linux Kernel < 4.4.0-116 (Ubuntu 16.04.4)|[44298](https://www.exploit-db.com/exploits/44298)|
-
 <a name="path"></a>
 ## Path Variable
 
@@ -131,6 +137,7 @@ Table of Contents
 |7.| [symfonos : 1](https://www.hackingarticles.in/symfonos1-vulnhub-walkthrough/)| curl   |
 |8.| [Silky-CTF: 0x01](https://www.hackingarticles.in/silky-ctf-0x01-vulnhub-walkthrough/) | whoami |
 |9.| [Beast 2](https://www.hackingarticles.in/beast-2-vulnhub-walkthrough/)   | whoami |
+
 <a name="enum"></a>
 ## Enumeration
 
@@ -205,6 +212,7 @@ Table of Contents
 |----|---------------------------------------------------------------------------------------------------------|
 |1.	 |[Kuya : 1](https://www.hackingarticles.in/vulnhub-kuya-1-walkthrough/)|
 |2.	 |[DomDom: 1](https://www.hackingarticles.in/domdom-1-vulnhub-walkthrough/)|
+
 <a name="etc"></a>
 
 ## Writable etc/passwd file
@@ -246,6 +254,7 @@ Table of Contents
 |6.  |[CTF KFIOFAN:2](https://www.hackingarticles.in/ctf-kfiofan-2-vulnhub-walkthorugh/)|
 |7.  |[Kioptrix : Level 1](https://www.hackingarticles.in/hack-the-kioptrix-level-1/)|
 |8.  |[Quaoar](https://www.hackingarticles.in/hack-quaoar-vm-ctf-challenge/)|
+
 <a name="docker"></a>
 
 ## Docker
@@ -254,6 +263,7 @@ Table of Contents
 |1.	 |[Donkey Docker](https://www.hackingarticles.in/hack-donkeydocker-ctf-challenge/)|
 |2.	 |[Game of Thrones](https://www.hackingarticles.in/hack-game-thrones-vm-ctf-challenge/)|
 |3.	 |[HackinOS : 1](https://www.hackingarticles.in/hackinos1-vulnhub-lab-walkthrough/)|
+
 <a name="chkrootkit"></a>
 ## Chkrootkit
 | No | Machine Name                                                                                            |
@@ -270,6 +280,7 @@ Table of Contents
 |3.  |[LAMPSecurity: CTF 8](https://www.hackingarticles.in/hack-the-lampsecurity-ctf8-ctf-challenge-2/)|
 |4.  |[Cyberry:1](https://hackingarticles.in/hack-vm-cyberry-1boot2root-challenge/)|
 |5.	 |[Born2root](https://www.hackingarticles.in/hack-born2root-vm-ctf-challenge/) |
+
 <a name="shadow"></a>
 ## Crack /etc/shadow
 | No | Machine Name                                                                                            |
