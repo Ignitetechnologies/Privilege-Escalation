@@ -123,6 +123,7 @@ Table of Contents
 |27.|[BTRSys:dv 2.1](https://www.hackingarticles.in/hack-btrsys-v2-1-vm-boot2root-challenge/)|Linux Kernel 4.4.0 (Ubuntu) - DCCP Double-Free|[41458](https://www.exploit-db.com/exploits/41458)|
 |28.|[Nightmare](https://www.hackingarticles.in/hack-the-box-nightmare-walkthrough/)|Ubuntu 14.04/16.04 (KASLR / SMEP)|[43418](https://www.exploit-db.com/exploits/43418)|
 |29.|[Trollcave](https://www.hackingarticles.in/hack-the-trollcave-vm-boot-to-root/)|Linux Kernel < 4.4.0-116 (Ubuntu 16.04.4)|[44298](https://www.exploit-db.com/exploits/44298)|
+
 <a name="path"></a>
 ## Path Variable
 
