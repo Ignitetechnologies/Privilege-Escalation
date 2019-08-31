@@ -6,7 +6,6 @@ This is a List of CTF Challenges in which privilege Escalation would be done by 
 [1]: http://www.twitter.com/rajchandel
 # Follow us on [![alt text][1.1]][1]
 
-## Docker
 | No | Machine Name                                                                                            |
 |----|---------------------------------------------------------------------------------------------------------|
 |1.	 |[Donkey Docker](https://www.hackingarticles.in/hack-donkeydocker-ctf-challenge/)|
