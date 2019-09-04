@@ -181,6 +181,7 @@ Table of Contents
 | 35.  | [64base](https://www.hackingarticles.in/hack-64base-vm-ctf-challenge/)|
 | 36.  | [C0m80](https://www.hackingarticles.in/hack-c0m80-vm-boot2root-challenge/)|
 | 37.  | [Gibson](https://www.hackingarticles.in/hack-gibson-vm-ctf-challenge/)|
+| 38.  |[Quaoar](https://www.hackingarticles.in/hack-quaoar-vm-ctf-challenge/)|
 
 <a name="mysql"></a>
 ## MySQL
@@ -255,7 +256,7 @@ Table of Contents
 |5.	 |[ROP Primer](https://www.hackingarticles.in/hack-the-rop-primer-1-0-1-ctf-challenge/)|
 |6.  |[CTF KFIOFAN:2](https://www.hackingarticles.in/ctf-kfiofan-2-vulnhub-walkthorugh/)|
 |7.  |[Kioptrix : Level 1](https://www.hackingarticles.in/hack-the-kioptrix-level-1/)|
-|8.  |[Quaoar](https://www.hackingarticles.in/hack-quaoar-vm-ctf-challenge/)|
+
 
 <a name="docker"></a>
 
