@@ -32,6 +32,8 @@ Table of Contents
 * [Crack /etc/shadow](#shadow)
 * [NFS](#nfs)
 * [Json](#json)
+* [Redis](#redis)
+* [All](#all)
 
 <a name="sudo"></a>
 ## Abusing Sudo Rights
@@ -72,6 +74,7 @@ Table of Contents
 |32.|[DC-4](https://www.hackingarticles.in/dc-4-vulnhub-walkthrough/)|teehee|
 |33.|[Serial: 1](https://www.hackingarticles.in/serial-1-vulnhub-walkthrough/)|vim|
 |34.|[Zico 2](https://www.hackingarticles.in/hack-zico2-vm-ctf-chAllenge/)|zip|
+|35.|[Sunset: Nightfall](https://www.hackingarticles.in/sunset-nightfall-vulnhub-walkthrough/)|cat|
 
 <a name="suid"></a>
 ## SUID Bit
@@ -308,3 +311,16 @@ Table of Contents
 |----|-----------------------------------------------------------------------------------------|-------|
 |1.  |[MinU: 1](https://www.hackingarticles.in/hack-the-minu-1-ctf-challenge/)| Json Token|
 |2.  |[Symfonos:4](https://www.hackingarticles.in/symfonos4-vulnhub-walkthrough/)| Json Pickle|
+
+<a name="redis"></a>
+## Redis
+| No | Machine Name                                                                                            |
+|----|---------------------------------------------------------------------------------------------------------|
+|1. |[Gemini inc:2](https://www.hackingarticles.in/hack-the-gemini-inc2-ctf-challenge/)|
+
+<a name="all"></a>
+## All
+| No | Machine Name                                                                                            |
+|----|---------------------------------------------------------------------------------------------------------|
+|1.  |[Lin.Security](https://www.hackingarticles.in/hack-the-lin-security-vm-boot-to-root/)|
+|2.  |[Escalate_Linux](https://www.hackingarticles.in/escalate_linux-vulnhub-walkthrough-part-1/)|
