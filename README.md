@@ -172,7 +172,7 @@ Table of Contents
 | 22.  | [BTRSys 1](https://www.hackingarticles.in/hack-btrsys1-vm-boot2root-challenge/)                                       |
 | 23.  | [G0rmint](https://www.hackingarticles.in/hack-g0rmint-vm-ctf-challenge/)                                              |
 | 24.  | [Blacklight : 1](https://www.hackingarticles.in/hack-the-blacklight-1-ctf-challenge/)                                 |
-| 25.  | [The blackmarket](https://www.hackingarticles.in/hack-the-blackmarket-vm-ctf-chAllenge/)  |                                                                      
+| 25.  | [The blackmarket](https://www.hackingarticles.in/hack-the-blackmarket-vm-ctf-chAllenge/)  |                                                           
 | 26.  | [Matrix 2](https://www.hackingarticles.in/matrix-2-vulnhub-lab-walkthrough/)                                          | 
 | 27.  | [Basic Pentesting : 2](https://www.hackingarticles.in/hack-the-basic-pentesting2-vm-ctf-chAllenge/)                   |
 | 28.  | [Depth](https://www.hackingarticles.in/hack-depth-vm-ctf-challenge/)|
@@ -246,8 +246,7 @@ Table of Contents
 |9.	 |[Tr0ll: 3](https://www.hackingarticles.in/tr0ll-3-vulnhub-walkthrough/)|
 |10. |[Nezuko:1](https://www.hackingarticles.in/nezuko-1-vulnhub-walkthrough/)|
 |11. |[Symfonos:3](https://www.hackingarticles.in/symfonos3-vulnhub-walkthrough/)|
-|12. |[AI: Web: 1](https://www.hackingarticles.in/ai-web-1-vulnhub-walkthrough/)|
-|13. |[Tr0ll 1](https://www.hackingarticles.in/hack-the-troll-1-vm-boot-to-root/)|
+|12. |[Tr0ll 1](https://www.hackingarticles.in/hack-the-troll-1-vm-boot-to-root/)|
 
 <a name="buffer"></a>
 ## Buffer Overflow
