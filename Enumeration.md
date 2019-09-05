@@ -32,7 +32,7 @@ This is a List of CTF Challenges in which privilege Escalation would be done by 
 | 22.  | [BTRSys 1](https://www.hackingarticles.in/hack-btrsys1-vm-boot2root-challenge/)                                       |
 | 23.  | [G0rmint](https://www.hackingarticles.in/hack-g0rmint-vm-ctf-challenge/)                                              |
 | 24.  | [Blacklight : 1](https://www.hackingarticles.in/hack-the-blacklight-1-ctf-challenge/)                                 |
-| 25.  | [The blackmarket](https://www.hackingarticles.in/hack-the-blackmarket-vm-ctf-chAllenge/)  |                                                                      
+| 25.  | [The blackmarket](https://www.hackingarticles.in/hack-the-blackmarket-vm-ctf-chAllenge/)  |                                                           
 | 26.  | [Matrix 2](https://www.hackingarticles.in/matrix-2-vulnhub-lab-walkthrough/)                                          | 
 | 27.  | [Basic Pentesting : 2](https://www.hackingarticles.in/hack-the-basic-pentesting2-vm-ctf-chAllenge/)                   |
 | 28.  | [Depth](https://www.hackingarticles.in/hack-depth-vm-ctf-challenge/)|
@@ -45,3 +45,4 @@ This is a List of CTF Challenges in which privilege Escalation would be done by 
 | 35.  | [64base](https://www.hackingarticles.in/hack-64base-vm-ctf-challenge/)|
 | 36.  | [C0m80](https://www.hackingarticles.in/hack-c0m80-vm-boot2root-challenge/)|
 | 37.  | [Gibson](https://www.hackingarticles.in/hack-gibson-vm-ctf-challenge/)|
+| 38.  |[Quaoar](https://www.hackingarticles.in/hack-quaoar-vm-ctf-challenge/)|
