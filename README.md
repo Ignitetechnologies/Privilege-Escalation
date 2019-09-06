@@ -1,4 +1,3 @@
-
 # Privilege Escalation Cheatsheet (Vulnhub)
 
 This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples. It is not a cheatsheet for Enumeration using Linux Commands. Privilege escalation is all about proper enumeration. There are multiple ways to perform the same tasks. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://www.linkedin.com/in/pavan2318).
@@ -33,6 +32,7 @@ Table of Contents
 * [NFS](#nfs)
 * [Json](#json)
 * [Redis](#redis)
+* [LXD](#lxd)
 * [All](#all)
 
 <a name="sudo"></a>
@@ -247,6 +247,7 @@ Table of Contents
 |10. |[Nezuko:1](https://www.hackingarticles.in/nezuko-1-vulnhub-walkthrough/)|
 |11. |[Symfonos:3](https://www.hackingarticles.in/symfonos3-vulnhub-walkthrough/)|
 |12. |[Tr0ll 1](https://www.hackingarticles.in/hack-the-troll-1-vm-boot-to-root/)|
+|13. |[DC:7](https://www.hackingarticles.in/dc7-vulnhub-walkthrough/)|
 
 <a name="buffer"></a>
 ## Buffer Overflow
@@ -316,6 +317,12 @@ Table of Contents
 | No | Machine Name                                                                                            |
 |----|---------------------------------------------------------------------------------------------------------|
 |1. |[Gemini inc:2](https://www.hackingarticles.in/hack-the-gemini-inc2-ctf-challenge/)|
+
+<a name="lxd"></a>
+## LXD
+| No | Machine Name                                                                                            |
+|----|---------------------------------------------------------------------------------------------------------|
+|1. |[AI: Web: 2](https://www.hackingarticles.in/ai-web-2-vulnhub-walkthrough/)|
 
 <a name="all"></a>
 ## All
