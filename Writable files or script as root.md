@@ -19,3 +19,4 @@ This is a List of CTF Challenges in which privilege Escalation would be done by 
 |10. |[Nezuko:1](https://www.hackingarticles.in/nezuko-1-vulnhub-walkthrough/)|
 |11. |[Symfonos:3](https://www.hackingarticles.in/symfonos3-vulnhub-walkthrough/)|
 |12. |[Tr0ll 1](https://www.hackingarticles.in/hack-the-troll-1-vm-boot-to-root/)|
+|13. |[DC:7](https://www.hackingarticles.in/dc7-vulnhub-walkthrough/)|
