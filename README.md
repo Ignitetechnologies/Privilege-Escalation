@@ -93,6 +93,7 @@ Table of Contents
 |10.|[Covfefe](https://www.hackingarticles.in/hack-covfefe-vm-ctf-challenge/)|script|
 |11.|[/dev/random : K2](https://www.hackingarticles.in/hack-the-dev-random-k2-vm-boot2root-challenge/)|script|
 |12.|[hackme1](https://www.hackingarticles.in/hackme-1-vulnhub-walkthrough/)|script|
+|13.|[Sunset: dawn](https://www.hackingarticles.in/sunset-dawn-vulnhub-walkthrough/)|zsh|
 
 <a name="kernel"></a>
 ## Kernel Exploit
