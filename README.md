@@ -335,7 +335,7 @@ Table of Contents
 |2.  |[Escalate_Linux](https://www.hackingarticles.in/escalate_linux-vulnhub-walkthrough-part-1/)|
 
 <a name="Exim"></a>
-## Exim[⤴](#exim)
+## Exim[⤴](#table-of-contents)
 | No | Machine Name                                                                                            |
 |----|---------------------------------------------------------------------------------------------------------|
 | 1. |[DC:8](https://www.hackingarticles.in/dc8-vulnhub-walkthrough/)                                          |
