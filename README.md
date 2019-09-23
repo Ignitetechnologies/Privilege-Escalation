@@ -34,6 +34,7 @@ Table of Contents
 * [Redis](#redis)
 * [LXD](#lxd)
 * [All](#all)
+* [Exim](#exim)
 
 <a name="sudo"></a>
 ##  Abusing Sudo Rights [⤴](#table-of-contents)
@@ -75,6 +76,7 @@ Table of Contents
 |33.|[Serial: 1](https://www.hackingarticles.in/serial-1-vulnhub-walkthrough/)|vim|
 |34.|[Zico 2](https://www.hackingarticles.in/hack-zico2-vm-ctf-chAllenge/)|zip|
 |35.|[Sunset: Nightfall](https://www.hackingarticles.in/sunset-nightfall-vulnhub-walkthrough/)|cat|
+|36.|[HA: Infinity Stones](https://www.hackingarticles.in/ha-infinity-stones-vulnhub-walkthrough/)
 
 <a name="suid"></a>
 ##  SUID Bit [⤴](#table-of-contents)
@@ -331,3 +333,9 @@ Table of Contents
 |----|---------------------------------------------------------------------------------------------------------|
 |1.  |[Lin.Security](https://www.hackingarticles.in/hack-the-lin-security-vm-boot-to-root/)|
 |2.  |[Escalate_Linux](https://www.hackingarticles.in/escalate_linux-vulnhub-walkthrough-part-1/)|
+
+<a name="Exim"></a>
+## Exim[⤴](#exim)
+| No | Machine Name                                                                                            |
+|----|---------------------------------------------------------------------------------------------------------|
+| 1. |[DC:8](https://www.hackingarticles.in/dc8-vulnhub-walkthrough/)                                          |
