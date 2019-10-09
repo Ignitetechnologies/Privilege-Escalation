@@ -97,6 +97,7 @@ Table of Contents
 |12.|[hackme1](https://www.hackingarticles.in/hackme-1-vulnhub-walkthrough/)|script|
 |13.|[Sunset: dawn](https://www.hackingarticles.in/sunset-dawn-vulnhub-walkthrough/)|zsh|
 |14.|[HA: Wordy](https://www.hackingarticles.in/ha-wordy-vulnhub-walkthrough/)|cp|
+|15.|[bossplayersCTF 1](https://www.hackingarticles.in/bossplayersctf-1-vulnhub-walkthrough/)
 
 <a name="kernel"></a>
 ##  Kernel Exploit [⤴](#table-of-contents)
@@ -234,6 +235,7 @@ Table of Contents
 |3.	 |[Bulldog 2](https://www.hackingarticles.in/hack-the-bulldog2-ctf-challenge/)|
 |4.  |[AI: Web: 1](https://www.hackingarticles.in/ai-web-1-vulnhub-walkthrough/)|
 |5.  |[Westwild: 2](https://www.hackingarticles.in/westwild-2-vulnhub-walkthrough/)|
+|6.  |[Misdirection 1](https://www.hackingarticles.in/misdirection-1-vulnhub-walkthrough/)
 
 <a name="root"></a>
 ##  Writable files or script as root [⤴](#table-of-contents)
