@@ -76,7 +76,7 @@ Table of Contents
 |33.|[Serial: 1](https://www.hackingarticles.in/serial-1-vulnhub-walkthrough/)|vim|
 |34.|[Zico 2](https://www.hackingarticles.in/hack-zico2-vm-ctf-chAllenge/)|zip|
 |35.|[Sunset: Nightfall](https://www.hackingarticles.in/sunset-nightfall-vulnhub-walkthrough/)|cat|
-|36.|[HA: Infinity Stones](https://www.hackingarticles.in/ha-infinity-stones-vulnhub-walkthrough/)
+|36.|[HA: Infinity Stones](https://www.hackingarticles.in/ha-infinity-stones-vulnhub-walkthrough/)|ftp|
 
 <a name="suid"></a>
 ##  SUID Bit [⤴](#table-of-contents)
@@ -134,6 +134,7 @@ Table of Contents
 |28.|[Nightmare](https://www.hackingarticles.in/hack-the-box-nightmare-walkthrough/)|Ubuntu 14.04/16.04 (KASLR / SMEP)|[43418](https://www.exploit-db.com/exploits/43418)|
 |29.|[Trollcave](https://www.hackingarticles.in/hack-the-trollcave-vm-boot-to-root/)|Linux Kernel < 4.4.0-116 (Ubuntu 16.04.4)|[44298](https://www.exploit-db.com/exploits/44298)|
 |30.|[Prime: 1](https://www.hackingarticles.in/prime-1-vulnhub-walkthrough/)|Linux Kernel < 4.4.0-116 (Ubuntu 16.04.4)| [44298](https://www.exploit-db.com/exploits/44298)|
+|31.|[LAMPSecurity: CTF6](https://www.hackingarticles.in/lampsecurity-ctf6-vulnhub-walkthrough/)|Linux Kernel 2.6|[8478](https://www.exploit-db.com/exploits/8478)|
 
 <a name="path"></a>
 ##  Path Variable [⤴](#table-of-contents)
@@ -161,7 +162,7 @@ Table of Contents
 | 4.   | [LAMPSecurity: CTF 7](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-7-ctf-challenge/)                      |
 | 5.   | [Xerxes: 1](https://www.hackingarticles.in/xerxes-1-vulnhub-walkthrough/)                                             |
 | 6.   | [pWnOS -2.0](https://www.hackingarticles.in/hack-the-pwnos-2-0-boot-2-root-challenge/)                                |
-| 7.   | [DE-ICE:S1.130](https://www.hackingarticles.in/hack-the-de-ice-s1-130-boot2root-challenge/)                   |                                          | 8.   | [SickOS 1.1](https://www.hackingarticles.in/hack-sickos-1-1-vm-ctf-challenge/)                              |          
+| 7.   | [DE-ICE:S1.130](https://www.hackingarticles.in/hack-the-de-ice-s1-130-boot2root-challenge/)                   |                  | 8.   | [SickOS 1.1](https://www.hackingarticles.in/hack-sickos-1-1-vm-ctf-challenge/)                              |          
 | 9.   | [Tommyboy](https://www.hackingarticles.in/hack-tommyboy-vm-ctf-challenge/)                                    |
 | 10.  | [VulnOS: 1](https://www.hackingarticles.in/hack-the-vulnos-1-ctf-challenge/)                                          |
 | 11.  | [Spyder Sec](https://www.hackingarticles.in/hack-spydersec-vm-ctf-challenge/)                                         |
@@ -178,7 +179,7 @@ Table of Contents
 | 22.  | [BTRSys 1](https://www.hackingarticles.in/hack-btrsys1-vm-boot2root-challenge/)                                       |
 | 23.  | [G0rmint](https://www.hackingarticles.in/hack-g0rmint-vm-ctf-challenge/)                                              |
 | 24.  | [Blacklight : 1](https://www.hackingarticles.in/hack-the-blacklight-1-ctf-challenge/)                                 |
-| 25.  | [The blackmarket](https://www.hackingarticles.in/hack-the-blackmarket-vm-ctf-chAllenge/)  |                                                           
+| 25.  | [The blackmarket](https://www.hackingarticles.in/hack-the-blackmarket-vm-ctf-chAllenge/)  |                                     
 | 26.  | [Matrix 2](https://www.hackingarticles.in/matrix-2-vulnhub-lab-walkthrough/)                                          | 
 | 27.  | [Basic Pentesting : 2](https://www.hackingarticles.in/hack-the-basic-pentesting2-vm-ctf-chAllenge/)                   |
 | 28.  | [Depth](https://www.hackingarticles.in/hack-depth-vm-ctf-challenge/)|
@@ -192,6 +193,7 @@ Table of Contents
 | 36.  | [C0m80](https://www.hackingarticles.in/hack-c0m80-vm-boot2root-challenge/)|
 | 37.  | [Gibson](https://www.hackingarticles.in/hack-gibson-vm-ctf-challenge/)|
 | 38.  |[Quaoar](https://www.hackingarticles.in/hack-quaoar-vm-ctf-challenge/)|
+|39.   |[Hacker Fest: 2019](https://www.hackingarticles.in/hacker-fest-2019-vulnhub-walkthrough/)|
 
 <a name="mysql"></a>
 ##  MySQL [⤴](#table-of-contents)
@@ -225,6 +227,7 @@ Table of Contents
 |----|---------------------------------------------------------------------------------------------------------|
 |1.	 |[Kuya : 1](https://www.hackingarticles.in/vulnhub-kuya-1-walkthrough/)|
 |2.	 |[DomDom: 1](https://www.hackingarticles.in/domdom-1-vulnhub-walkthrough/)|
+|3.  |[HA: Naruto](https://www.hackingarticles.in/ha-naruto-vulnhub-walkthrough/)
 
 <a name="etc"></a>
 ##  Writable etc/passwd file [⤴](#table-of-contents)
@@ -236,6 +239,7 @@ Table of Contents
 |4.  |[AI: Web: 1](https://www.hackingarticles.in/ai-web-1-vulnhub-walkthrough/)|
 |5.  |[Westwild: 2](https://www.hackingarticles.in/westwild-2-vulnhub-walkthrough/)|
 |6.  |[Misdirection 1](https://www.hackingarticles.in/misdirection-1-vulnhub-walkthrough/)
+|7.  |[HA: ISRO](https://www.hackingarticles.in/ha-isro-vulnhub-walkthrough/)
 
 <a name="root"></a>
 ##  Writable files or script as root [⤴](#table-of-contents)
@@ -329,6 +333,8 @@ Table of Contents
 | No | Machine Name                                                                                            |
 |----|---------------------------------------------------------------------------------------------------------|
 |1. |[AI: Web: 2](https://www.hackingarticles.in/ai-web-2-vulnhub-walkthrough/)|
+|2. |[HA: Joker](https://www.hackingarticles.in/ha-joker-vulnhub-walkthrough/)|
+
 
 <a name="all"></a>
 ##  ALL [⤴](#table-of-contents)
