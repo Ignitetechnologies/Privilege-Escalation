@@ -97,7 +97,7 @@ Table of Contents
 |12.|[hackme1](https://www.hackingarticles.in/hackme-1-vulnhub-walkthrough/)|script|
 |13.|[Sunset: dawn](https://www.hackingarticles.in/sunset-dawn-vulnhub-walkthrough/)|zsh|
 |14.|[HA: Wordy](https://www.hackingarticles.in/ha-wordy-vulnhub-walkthrough/)|cp|
-|15.|[bossplayersCTF 1](https://www.hackingarticles.in/bossplayersctf-1-vulnhub-walkthrough/)
+|15.|[bossplayersCTF 1](https://www.hackingarticles.in/bossplayersctf-1-vulnhub-walkthrough/)|find|
 
 <a name="kernel"></a>
 ##  Kernel Exploit [⤴](#table-of-contents)
