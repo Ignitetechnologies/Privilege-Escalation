@@ -35,6 +35,7 @@ Table of Contents
 * [LXD](#lxd)
 * [All](#all)
 * [Exim](#exim)
+* [Apache2 Writable](#apache2)
 
 <a name="sudo"></a>
 ##  Abusing Sudo Rights [⤴](#table-of-contents)
@@ -58,25 +59,24 @@ Table of Contents
 |15.|[Dina](https://www.hackingarticles.in/hack-dina-vm-ctf-chAllenge/)|perl|
 |16.|[Wakanda : 1](https://www.hackingarticles.in/hack-the-wakanda-1-ctf-chAllenge/)|pip|
 |17.|[Violator](https://www.hackingarticles.in/hack-the-violator-ctf-chAllenge/)|proftpd|
-|18.|[Torment](https://www.hackingarticles.in/digitalworld-localtorment-vulnhub-walkthrough/)|python|
-|19.|[Broken: Gallery](https://www.hackingarticles.in/broken-gAllery-vulnhub-walkthrough/)|reboot/timedatectl|
-|20.|[DE-ICE:S1.120](https://www.hackingarticles.in/hack-the-de-ice-s1-120-vm-boot-to-root/)|script|
-|21.|[Fristileaks](https://www.hackingarticles.in/hack-fristileaks-vm-ctf-chAllenge/)|script|
-|22.|[DerpNStink](https://www.hackingarticles.in/hack-the-derpnstink-vm-ctf-chAllenge/)|script|
-|23.|[Digitalworld.local : JOY](https://www.hackingarticles.in/digitalworld-local-joy-vulnhub-walkthrough/)|script|
-|24.|[PumpkinFestival](https://www.hackingarticles.in/mission-pumpkin-v1-0-pumpkinfestival-vulnhub-walkthrough/)|script|
-|25.|[The Ether: Evil Science](https://www.hackingarticles.in/hack-ether-evilscience-vm-ctf-chAllenge/)|script|
-|26.|[PumpkinRaising](https://www.hackingarticles.in/pumpkinraising-vulnhub-walkthrough/)|strace|
-|27.|[Unknowndevice64 : 1](https://www.hackingarticles.in/unknowndevice64-1-vulnhub-lab-walkthrough/)|strace|
-|28.|[Holynix: v1](https://www.hackingarticles.in/hack-the-holynix-v1-boot-2-root-chAllenge/)|tar|
-|29.|[Breach 2.1](https://www.hackingarticles.in/hack-breach-2-1-vm-ctf-chAllenge/)|tcpdump|
-|30.|[Temple of Doom](https://www.hackingarticles.in/hack-the-temple-of-doom-ctf-chAllenge/)|tcpdump|
-|31.|[Web Developer : 1](https://www.hackingarticles.in/web-developer-1-vulnhub-lab-walkthrough/)|tcpdump|
-|32.|[DC-4](https://www.hackingarticles.in/dc-4-vulnhub-walkthrough/)|teehee|
-|33.|[Serial: 1](https://www.hackingarticles.in/serial-1-vulnhub-walkthrough/)|vim|
-|34.|[Zico 2](https://www.hackingarticles.in/hack-zico2-vm-ctf-chAllenge/)|zip|
-|35.|[Sunset: Nightfall](https://www.hackingarticles.in/sunset-nightfall-vulnhub-walkthrough/)|cat|
-|36.|[HA: Infinity Stones](https://www.hackingarticles.in/ha-infinity-stones-vulnhub-walkthrough/)|ftp|
+|18.|[Broken: Gallery](https://www.hackingarticles.in/broken-gAllery-vulnhub-walkthrough/)|reboot/timedatectl|
+|19.|[DE-ICE:S1.120](https://www.hackingarticles.in/hack-the-de-ice-s1-120-vm-boot-to-root/)|script|
+|20.|[Fristileaks](https://www.hackingarticles.in/hack-fristileaks-vm-ctf-chAllenge/)|script|
+|21.|[DerpNStink](https://www.hackingarticles.in/hack-the-derpnstink-vm-ctf-chAllenge/)|script|
+|22.|[Digitalworld.local : JOY](https://www.hackingarticles.in/digitalworld-local-joy-vulnhub-walkthrough/)|script|
+|23.|[PumpkinFestival](https://www.hackingarticles.in/mission-pumpkin-v1-0-pumpkinfestival-vulnhub-walkthrough/)|script|
+|24.|[The Ether: Evil Science](https://www.hackingarticles.in/hack-ether-evilscience-vm-ctf-chAllenge/)|script|
+|25.|[PumpkinRaising](https://www.hackingarticles.in/pumpkinraising-vulnhub-walkthrough/)|strace|
+|26.|[Unknowndevice64 : 1](https://www.hackingarticles.in/unknowndevice64-1-vulnhub-lab-walkthrough/)|strace|
+|27.|[Holynix: v1](https://www.hackingarticles.in/hack-the-holynix-v1-boot-2-root-chAllenge/)|tar|
+|28.|[Breach 2.1](https://www.hackingarticles.in/hack-breach-2-1-vm-ctf-chAllenge/)|tcpdump|
+|29.|[Temple of Doom](https://www.hackingarticles.in/hack-the-temple-of-doom-ctf-chAllenge/)|tcpdump|
+|30.|[Web Developer : 1](https://www.hackingarticles.in/web-developer-1-vulnhub-lab-walkthrough/)|tcpdump|
+|31.|[DC-4](https://www.hackingarticles.in/dc-4-vulnhub-walkthrough/)|teehee|
+|32.|[Serial: 1](https://www.hackingarticles.in/serial-1-vulnhub-walkthrough/)|vim|
+|33.|[Zico 2](https://www.hackingarticles.in/hack-zico2-vm-ctf-chAllenge/)|zip|
+|34.|[Sunset: Nightfall](https://www.hackingarticles.in/sunset-nightfall-vulnhub-walkthrough/)|cat|
+|35.|[HA: Infinity Stones](https://www.hackingarticles.in/ha-infinity-stones-vulnhub-walkthrough/)|ftp|
 
 <a name="suid"></a>
 ##  SUID Bit [⤴](#table-of-contents)
@@ -348,3 +348,10 @@ Table of Contents
 | No | Machine Name                                                                                            |
 |----|---------------------------------------------------------------------------------------------------------|
 | 1. |[DC:8](https://www.hackingarticles.in/dc8-vulnhub-walkthrough/)                                          |
+
+<a name="apache2"></a>
+##  Apache2 Writable [⤴](#table-of-contents)
+| No | Machine Name                                                                                            |
+|----|---------------------------------------------------------------------------------------------------------|
+|1.|[Torment](https://www.hackingarticles.in/digitalworld-localtorment-vulnhub-walkthrough/)|
+|2.|[HA: Armour](https://www.hackingarticles.in/ha-armour-walkthrough/)|
