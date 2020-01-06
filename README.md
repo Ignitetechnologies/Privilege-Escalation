@@ -75,8 +75,14 @@ Table of Contents
 |31.|[DC-4](https://www.hackingarticles.in/dc-4-vulnhub-walkthrough/)|teehee|
 |32.|[Serial: 1](https://www.hackingarticles.in/serial-1-vulnhub-walkthrough/)|vim|
 |33.|[Zico 2](https://www.hackingarticles.in/hack-zico2-vm-ctf-chAllenge/)|zip|
-|34.|[Sunset: Nightfall](https://www.hackingarticles.in/sunset-nightfall-vulnhub-walkthrough/)|cat|
-|35.|[HA: Infinity Stones](https://www.hackingarticles.in/ha-infinity-stones-vulnhub-walkthrough/)|ftp|
+|34.|[HA: Dhanush](https://www.hackingarticles.in/ha-dhanush-vulnhub-walkthrough/)|zip|
+|35.|[Sunset: Nightfall](https://www.hackingarticles.in/sunset-nightfall-vulnhub-walkthrough/)|cat|
+|36.|[HA: Infinity Stones](https://www.hackingarticles.in/ha-infinity-stones-vulnhub-walkthrough/)|ftp|
+|37.|[HA:Rudra](https://www.hackingarticles.in/ha-rudra-vulnhub-walkthrough/)|watch|
+|38.|[djinn:1](https://www.hackingarticles.in/djinn1-vulnhub-walkthrough/)|genie|
+|39.|[UA: Literally Vulnerable](https://www.hackingarticles.in/ua-literally-vulnerable-vulnhub-walkthrough/)|itseasy|
+|40.|[Sunset-Sunrise](https://www.hackingarticles.in/sunset-sunrise-vulnhub-walkthrough/)|wine|
+|41.|[Me and My Girlfreind:1](https://www.hackingarticles.in/me-and-my-girlfreind1-vulnhub-walkthrough/)|php|
 
 <a name="suid"></a>
 ##  SUID Bit [⤴](#table-of-contents)
@@ -98,6 +104,7 @@ Table of Contents
 |13.|[Sunset: dawn](https://www.hackingarticles.in/sunset-dawn-vulnhub-walkthrough/)|zsh|
 |14.|[HA: Wordy](https://www.hackingarticles.in/ha-wordy-vulnhub-walkthrough/)|cp|
 |15.|[bossplayersCTF 1](https://www.hackingarticles.in/bossplayersctf-1-vulnhub-walkthrough/)|find|
+|16.|[In Plain Sight:1](https://www.hackingarticles.in/in-plain-sight1-vulnhub-walkthrough/)|bwrap|
 
 <a name="kernel"></a>
 ##  Kernel Exploit [⤴](#table-of-contents)
@@ -150,6 +157,7 @@ Table of Contents
 |7.| [symfonos : 1](https://www.hackingarticles.in/symfonos1-vulnhub-walkthrough/)| curl   |
 |8.| [Silky-CTF: 0x01](https://www.hackingarticles.in/silky-ctf-0x01-vulnhub-walkthrough/) | whoami |
 |9.| [Beast 2](https://www.hackingarticles.in/beast-2-vulnhub-walkthrough/)   | whoami |
+|10.| [HA:Arsenal Avengers](https://www.hackingarticles.in/ha-avengers-arsenal-vulnhub-walkthrough/) | ifconfig |
 
 <a name="enum"></a>
 ##  Enumeration [⤴](#table-of-contents)
@@ -192,8 +200,9 @@ Table of Contents
 | 35.  | [64base](https://www.hackingarticles.in/hack-64base-vm-ctf-challenge/)|
 | 36.  | [C0m80](https://www.hackingarticles.in/hack-c0m80-vm-boot2root-challenge/)|
 | 37.  | [Gibson](https://www.hackingarticles.in/hack-gibson-vm-ctf-challenge/)|
-| 38.  |[Quaoar](https://www.hackingarticles.in/hack-quaoar-vm-ctf-challenge/)|
-|39.   |[Hacker Fest: 2019](https://www.hackingarticles.in/hacker-fest-2019-vulnhub-walkthrough/)|
+| 38.  | [Quaoar](https://www.hackingarticles.in/hack-quaoar-vm-ctf-challenge/)|
+| 39.  | [Hacker Fest: 2019](https://www.hackingarticles.in/hacker-fest-2019-vulnhub-walkthrough/)|
+| 40.  | [EVM: 1](https://www.hackingarticles.in/evm-1-vulnhub-walkthrough/)|
 
 <a name="mysql"></a>
 ##  MySQL [⤴](#table-of-contents)
@@ -238,8 +247,9 @@ Table of Contents
 |3.	 |[Bulldog 2](https://www.hackingarticles.in/hack-the-bulldog2-ctf-challenge/)|
 |4.  |[AI: Web: 1](https://www.hackingarticles.in/ai-web-1-vulnhub-walkthrough/)|
 |5.  |[Westwild: 2](https://www.hackingarticles.in/westwild-2-vulnhub-walkthrough/)|
-|6.  |[Misdirection 1](https://www.hackingarticles.in/misdirection-1-vulnhub-walkthrough/)
-|7.  |[HA: ISRO](https://www.hackingarticles.in/ha-isro-vulnhub-walkthrough/)
+|6.  |[Misdirection 1](https://www.hackingarticles.in/misdirection-1-vulnhub-walkthrough/)|
+|7.  |[HA: ISRO](https://www.hackingarticles.in/ha-isro-vulnhub-walkthrough/)|
+|8.  |[Gears of War: EP#1](https://www.hackingarticles.in/gears-of-war-ep1-vulnhub-walkthrough/)|
 
 <a name="root"></a>
 ##  Writable files or script as root [⤴](#table-of-contents)
@@ -280,6 +290,9 @@ Table of Contents
 |1.	 |[Donkey Docker](https://www.hackingarticles.in/hack-donkeydocker-ctf-challenge/)|
 |2.	 |[Game of Thrones](https://www.hackingarticles.in/hack-game-thrones-vm-ctf-challenge/)|
 |3.	 |[HackinOS : 1](https://www.hackingarticles.in/hackinos1-vulnhub-lab-walkthrough/)|
+|4.  |[HA: Chakravyuh](https://www.hackingarticles.in/ha-chakravyuh-vulnhub-walkthrough/)|
+|5.  |[Mumbai:1](https://www.hackingarticles.in/mumbai1-vulnhub-walkthrough/)|
+|6.  |[Sunset: dusk](https://www.hackingarticles.in/sunset-dusk-vulnhub-walkthrough/)|
 
 <a name="chkrootkit"></a>
 ##  Chkrootkit [⤴](#table-of-contents)
@@ -287,6 +300,7 @@ Table of Contents
 |----|---------------------------------------------------------------------------------------------------------|
 |1.  |[SickOS 1.2](https://www.hackingarticles.in/hack-the-sickos-1-2-vm-ctf-challenge/)|
 |2.  |[Sedna](https://www.hackingarticles.in/hack-sedna-vm-ctf-challenge/)|
+|3.  |[HA: Chanakya](https://www.hackingarticles.in/ha-chanakya-vulnhub-walkthrough/)|
 
 <a name="bruteforce"></a>
 ##  Bruteforce [⤴](#table-of-contents) 
@@ -342,6 +356,7 @@ Table of Contents
 |----|---------------------------------------------------------------------------------------------------------|
 |1.  |[Lin.Security](https://www.hackingarticles.in/hack-the-lin-security-vm-boot-to-root/)|
 |2.  |[Escalate_Linux](https://www.hackingarticles.in/escalate_linux-vulnhub-walkthrough-part-1/)|
+|3.  |[Jigsaw:1](https://www.hackingarticles.in/jigsaw1-vulnhub-walkthrough/)|
 
 <a name="Exim"></a>
 ## Exim[⤴](#table-of-contents)
