@@ -6,7 +6,6 @@ This is a List of CTF Challenges in which Privilege Escalation would be done by 
 [1]: http://www.twitter.com/rajchandel
 # Follow us on [![alt text][1.1]][1]
 
-
 | No | Machine Name                                                                                            |
 |----|---------------------------------------------------------------------------------------------------------|
 |1.  |[Rickdiculouslyeasy](https://www.hackingarticles.in/hack-rickdiculouslyeasy-vm-ctf-challenge/)|
