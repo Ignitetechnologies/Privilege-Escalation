@@ -9,3 +9,4 @@ This is a List of CTF Challenges in which privilege Escalation would be done by 
 | No | Machine Name                                                                                            |
 |----|---------------------------------------------------------------------------------------------------------|
 |1. |[AI: Web: 2](https://www.hackingarticles.in/ai-web-2-vulnhub-walkthrough/)|
+|2. |[HA: Joker](https://www.hackingarticles.in/ha-joker-vulnhub-walkthrough/)|
