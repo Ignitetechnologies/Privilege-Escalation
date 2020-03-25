@@ -10,3 +10,4 @@ This is a List of CTF Challenges in which Privilege Escalation would be done by 
 |----|---------------------------------------------------------------------------------------------------------|
 |1.  |[SickOS 1.2](https://www.hackingarticles.in/hack-the-sickos-1-2-vm-ctf-challenge/)|
 |2.  |[Sedna](https://www.hackingarticles.in/hack-sedna-vm-ctf-challenge/)|
+|3.  |[HA: Chanakya](https://www.hackingarticles.in/ha-chanakya-vulnhub-walkthrough/)|
