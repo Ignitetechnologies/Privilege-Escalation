@@ -10,3 +10,4 @@ This is a List of CTF Challenges in which the complete lab is designed for Privi
 |----|---------------------------------------------------------------------------------------------------------|
 |1.  |[Lin.Security](https://www.hackingarticles.in/hack-the-lin-security-vm-boot-to-root/)|
 |2.  |[Escalate_Linux](https://www.hackingarticles.in/escalate_linux-vulnhub-walkthrough-part-1/)|
+|3.  |[Jigsaw:1](https://www.hackingarticles.in/jigsaw1-vulnhub-walkthrough/)|
