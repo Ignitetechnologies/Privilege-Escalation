@@ -83,6 +83,9 @@ Table of Contents
 |39.|[HA: Infinity Stones](https://www.hackingarticles.in/ha-infinity-stones-vulnhub-walkthrough/)|ftp|
 |40.|[Sunset-Sunrise](https://www.hackingarticles.in/sunset-sunrise-vulnhub-walkthrough/)|wine|
 |41.|[Me and My Girlfreind:1](https://www.hackingarticles.in/me-and-my-girlfreind1-vulnhub-walkthrough/)|php|
+|42.|[Symfonos:5](https://www.hackingarticles.in/symfonos5-vulnhub-walkthrough/)|dpkg|
+|43.|[Five86:2](https://www.hackingarticles.in/five86-2-vulnhub-walkthrough/)|%|
+|44.|[Tempus Fugit:1](https://www.hackingarticles.in/tempus-fugit-1-vulnhub-walkthrough/)|%|
 
 <a name="suid"></a>
 ##  SUID Bit [⤴](#table-of-contents)
@@ -105,6 +108,7 @@ Table of Contents
 |14.|[HA: Wordy](https://www.hackingarticles.in/ha-wordy-vulnhub-walkthrough/)|cp|
 |15.|[bossplayersCTF 1](https://www.hackingarticles.in/bossplayersctf-1-vulnhub-walkthrough/)|find|
 |16.|[In Plain Sight:1](https://www.hackingarticles.in/in-plain-sight1-vulnhub-walkthrough/)|bwrap|
+|17.|[Five86:1](https://www.hackingarticles.in/five861-vulnhub-walkthrough/)|%|
 
 <a name="kernel"></a>
 ##  Kernel Exploit [⤴](#table-of-contents)
@@ -142,6 +146,7 @@ Table of Contents
 |29.|[Trollcave](https://www.hackingarticles.in/hack-the-trollcave-vm-boot-to-root/)|Linux Kernel < 4.4.0-116 (Ubuntu 16.04.4)|[44298](https://www.exploit-db.com/exploits/44298)|
 |30.|[Prime: 1](https://www.hackingarticles.in/prime-1-vulnhub-walkthrough/)|Linux Kernel < 4.4.0-116 (Ubuntu 16.04.4)| [44298](https://www.exploit-db.com/exploits/44298)|
 |31.|[LAMPSecurity: CTF6](https://www.hackingarticles.in/lampsecurity-ctf6-vulnhub-walkthrough/)|Linux Kernel 2.6|[8478](https://www.exploit-db.com/exploits/8478)|
+|32.|[My File Server:1](https://www.hackingarticles.in/my-file-server-1-vulnhub-walkthrough/)|%|%|
 
 <a name="path"></a>
 ##  Path Variable [⤴](#table-of-contents)
@@ -158,6 +163,9 @@ Table of Contents
 |8.| [Silky-CTF: 0x01](https://www.hackingarticles.in/silky-ctf-0x01-vulnhub-walkthrough/) | whoami |
 |9.| [Beast 2](https://www.hackingarticles.in/beast-2-vulnhub-walkthrough/)   | whoami |
 |10.| [HA:Arsenal Avengers](https://www.hackingarticles.in/ha-avengers-arsenal-vulnhub-walkthrough/) | ifconfig |
+|11.| [Inclusiveness:1](https://www.hackingarticles.in/inclusiveness-1-vulnhub-walkthrough/)|%|
+|12.| [MuzzyBox:1](https://www.hackingarticles.in/muzzybox-1-vulnhub-walkthrough/)|%|
+
 
 <a name="enum"></a>
 ##  Enumeration [⤴](#table-of-contents)
@@ -203,6 +211,8 @@ Table of Contents
 | 38.  | [Quaoar](https://www.hackingarticles.in/hack-quaoar-vm-ctf-challenge/)|
 | 39.  | [Hacker Fest: 2019](https://www.hackingarticles.in/hacker-fest-2019-vulnhub-walkthrough/)|
 | 40.  | [EVM: 1](https://www.hackingarticles.in/evm-1-vulnhub-walkthrough/)|
+| 41.  | [EnuBox:Mattermost](https://www.hackingarticles.in/enubox-mattermost-vulnhub-walkthrough/)|
+| 42.  | [2much:1](https://www.hackingarticles.in/2much-1-vulnhub-walkthrough/)|
 
 <a name="mysql"></a>
 ##  MySQL [⤴](#table-of-contents)
@@ -222,6 +232,8 @@ Table of Contents
 |3.	 |[Jarbas : 1](https://www.hackingarticles.in/hack-the-jarbas-1-ctf-challenge/)|
 |4.	 |[SP:Jerome](https://www.hackingarticles.in/spjerome-vulnhub-walkthrough/)|
 |5.  |[dpwwn: 1](https://www.hackingarticles.in/dpwwn-1-vulnhub-walkthrough/)|
+|6.  |[Sar](https://www.hackingarticles.in/sar-vulnhub-walkthrough/)|
+|7.  |[TBBT](https://www.hackingarticles.in/tbbt-funwithflags-vulnhub-walkthrough/)|
 
 <a name="wild"></a>
 ##  Wildcard Injection [⤴](#table-of-contents)
@@ -236,7 +248,8 @@ Table of Contents
 |----|---------------------------------------------------------------------------------------------------------|
 |1.	 |[Kuya : 1](https://www.hackingarticles.in/vulnhub-kuya-1-walkthrough/)|
 |2.	 |[DomDom: 1](https://www.hackingarticles.in/domdom-1-vulnhub-walkthrough/)|
-|3.  |[HA: Naruto](https://www.hackingarticles.in/ha-naruto-vulnhub-walkthrough/)
+|3.  |[HA: Naruto](https://www.hackingarticles.in/ha-naruto-vulnhub-walkthrough/)|
+|4.  |[Connect The Dots:1](https://www.hackingarticles.in/connect-the-dots1-vulnhub-walkthough/)|
 
 <a name="etc"></a>
 ##  Writable etc/passwd file [⤴](#table-of-contents)
@@ -250,6 +263,8 @@ Table of Contents
 |6.  |[Misdirection 1](https://www.hackingarticles.in/misdirection-1-vulnhub-walkthrough/)|
 |7.  |[HA: ISRO](https://www.hackingarticles.in/ha-isro-vulnhub-walkthrough/)|
 |8.  |[Gears of War: EP#1](https://www.hackingarticles.in/gears-of-war-ep1-vulnhub-walkthrough/)|
+|9.  |[DC:9](https://www.hackingarticles.in/dc-9-vulnhub-walkthrough/)|
+|10. |[Sahu](https://www.hackingarticles.in/sahu-vulnhub-walkthrough/)|
 
 <a name="root"></a>
 ##  Writable files or script as root [⤴](#table-of-contents)
@@ -268,6 +283,7 @@ Table of Contents
 |11. |[Symfonos:3](https://www.hackingarticles.in/symfonos3-vulnhub-walkthrough/)|
 |12. |[Tr0ll 1](https://www.hackingarticles.in/hack-the-troll-1-vm-boot-to-root/)|
 |13. |[DC:7](https://www.hackingarticles.in/dc7-vulnhub-walkthrough/)|
+|14. |[View2aKill](https://www.hackingarticles.in/view2akill-vulnhub-walkthrough/)|
 
 <a name="buffer"></a>
 ##  Buffer Overflow [⤴](#table-of-contents)
@@ -348,6 +364,7 @@ Table of Contents
 |----|---------------------------------------------------------------------------------------------------------|
 |1. |[AI: Web: 2](https://www.hackingarticles.in/ai-web-2-vulnhub-walkthrough/)|
 |2. |[HA: Joker](https://www.hackingarticles.in/ha-joker-vulnhub-walkthrough/)|
+|3. |[CyNix:1](https://www.hackingarticles.in/cynix1-vulnhub-walkthrough/)|
 
 
 <a name="all"></a>
