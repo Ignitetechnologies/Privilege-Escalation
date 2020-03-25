@@ -6,7 +6,6 @@ This is a List of CTF Challenges in which privilege Escalation would be done usi
 [1]: http://www.twitter.com/rajchandel
 # Follow us on [![alt text][1.1]][1]
 
-
 |No.| Path Variable   | Files  |
 |-------|-----------------|--------|
 |1.| [PwnLab](https://www.hackingarticles.in/penetration-testing-pwnlab-ctf-challenge/)| cat    |
@@ -18,3 +17,4 @@ This is a List of CTF Challenges in which privilege Escalation would be done usi
 |7.| [symfonos : 1](https://www.hackingarticles.in/symfonos1-vulnhub-walkthrough/)| curl   |
 |8.| [Silky-CTF: 0x01](https://www.hackingarticles.in/silky-ctf-0x01-vulnhub-walkthrough/) | whoami |
 |9.| [Beast 2](https://www.hackingarticles.in/beast-2-vulnhub-walkthrough/)   | whoami |
+|10.| [HA:Arsenal Avengers](https://www.hackingarticles.in/ha-avengers-arsenal-vulnhub-walkthrough/) | ifconfig |
