@@ -11,3 +11,6 @@ This is a List of CTF Challenges in which privilege Escalation would be done by 
 |1.	 |[Donkey Docker](https://www.hackingarticles.in/hack-donkeydocker-ctf-challenge/)|
 |2.	 |[Game of Thrones](https://www.hackingarticles.in/hack-game-thrones-vm-ctf-challenge/)|
 |3.	 |[HackinOS : 1](https://www.hackingarticles.in/hackinos1-vulnhub-lab-walkthrough/)|
+|4.  |[HA: Chakravyuh](https://www.hackingarticles.in/ha-chakravyuh-vulnhub-walkthrough/)|
+|5.  |[Mumbai:1](https://www.hackingarticles.in/mumbai1-vulnhub-walkthrough/)|
+|6.  |[Sunset: dusk](https://www.hackingarticles.in/sunset-dusk-vulnhub-walkthrough/)|
