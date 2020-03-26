@@ -84,8 +84,8 @@ Table of Contents
 |40.|[Sunset-Sunrise](https://www.hackingarticles.in/sunset-sunrise-vulnhub-walkthrough/)|wine|
 |41.|[Me and My Girlfreind:1](https://www.hackingarticles.in/me-and-my-girlfreind1-vulnhub-walkthrough/)|php|
 |42.|[Symfonos:5](https://www.hackingarticles.in/symfonos5-vulnhub-walkthrough/)|dpkg|
-|43.|[Five86:2](https://www.hackingarticles.in/five86-2-vulnhub-walkthrough/)|%|
-|44.|[Tempus Fugit:1](https://www.hackingarticles.in/tempus-fugit-1-vulnhub-walkthrough/)|%|
+|43.|[Five86:2](https://www.hackingarticles.in/five86-2-vulnhub-walkthrough/)| service |
+|44.|[Tempus Fugit:1](https://www.hackingarticles.in/tempus-fugit-1-vulnhub-walkthrough/)|Diffrent for every user|
 
 <a name="suid"></a>
 ##  SUID Bit [⤴](#table-of-contents)
@@ -108,7 +108,7 @@ Table of Contents
 |14.|[HA: Wordy](https://www.hackingarticles.in/ha-wordy-vulnhub-walkthrough/)|cp|
 |15.|[bossplayersCTF 1](https://www.hackingarticles.in/bossplayersctf-1-vulnhub-walkthrough/)|find|
 |16.|[In Plain Sight:1](https://www.hackingarticles.in/in-plain-sight1-vulnhub-walkthrough/)|script|
-|17.|[Five86:1](https://www.hackingarticles.in/five861-vulnhub-walkthrough/)|%|
+|17.|[Five86:1](https://www.hackingarticles.in/five861-vulnhub-walkthrough/)|script|
 
 <a name="kernel"></a>
 ##  Kernel Exploit [⤴](#table-of-contents)
@@ -146,7 +146,7 @@ Table of Contents
 |29.|[Trollcave](https://www.hackingarticles.in/hack-the-trollcave-vm-boot-to-root/)|Linux Kernel < 4.4.0-116 (Ubuntu 16.04.4)|[44298](https://www.exploit-db.com/exploits/44298)|
 |30.|[Prime: 1](https://www.hackingarticles.in/prime-1-vulnhub-walkthrough/)|Linux Kernel < 4.4.0-116 (Ubuntu 16.04.4)| [44298](https://www.exploit-db.com/exploits/44298)|
 |31.|[LAMPSecurity: CTF6](https://www.hackingarticles.in/lampsecurity-ctf6-vulnhub-walkthrough/)|Linux Kernel 2.6|[8478](https://www.exploit-db.com/exploits/8478)|
-|32.|[My File Server:1](https://www.hackingarticles.in/my-file-server-1-vulnhub-walkthrough/)|%|%|
+|32.|[My File Server:1](https://www.hackingarticles.in/my-file-server-1-vulnhub-walkthrough/)|Dirty COW|[40616](https://www.exploit-db.com/exploits/40616)|
 
 <a name="path"></a>
 ##  Path Variable [⤴](#table-of-contents)
@@ -163,8 +163,8 @@ Table of Contents
 |8.| [Silky-CTF: 0x01](https://www.hackingarticles.in/silky-ctf-0x01-vulnhub-walkthrough/) | whoami |
 |9.| [Beast 2](https://www.hackingarticles.in/beast-2-vulnhub-walkthrough/)   | whoami |
 |10.| [HA:Arsenal Avengers](https://www.hackingarticles.in/ha-avengers-arsenal-vulnhub-walkthrough/) | ifconfig |
-|11.| [Inclusiveness:1](https://www.hackingarticles.in/inclusiveness-1-vulnhub-walkthrough/)|%|
-|12.| [MuzzyBox:1](https://www.hackingarticles.in/muzzybox-1-vulnhub-walkthrough/)|%|
+|11.| [Inclusiveness:1](https://www.hackingarticles.in/inclusiveness-1-vulnhub-walkthrough/)|whoami|
+|12.| [MuzzyBox:1](https://www.hackingarticles.in/muzzybox-1-vulnhub-walkthrough/)|ls|
 
 
 <a name="enum"></a>
