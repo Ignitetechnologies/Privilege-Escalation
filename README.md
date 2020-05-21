@@ -109,6 +109,7 @@ Table of Contents
 |15.|[bossplayersCTF 1](https://www.hackingarticles.in/bossplayersctf-1-vulnhub-walkthrough/)|find|
 |16.|[In Plain Sight:1](https://www.hackingarticles.in/in-plain-sight1-vulnhub-walkthrough/)|script|
 |17.|[Five86:1](https://www.hackingarticles.in/five861-vulnhub-walkthrough/)|script|
+|18.|[Geisha:1](https://www.hackingarticles.in/geisha1-vulnhub-walkthrough/)|base32|
 
 <a name="kernel"></a>
 ##  Kernel Exploit [⤴](#table-of-contents)
@@ -147,6 +148,7 @@ Table of Contents
 |30.|[Prime: 1](https://www.hackingarticles.in/prime-1-vulnhub-walkthrough/)|Linux Kernel < 4.4.0-116 (Ubuntu 16.04.4)| [44298](https://www.exploit-db.com/exploits/44298)|
 |31.|[LAMPSecurity: CTF6](https://www.hackingarticles.in/lampsecurity-ctf6-vulnhub-walkthrough/)|Linux Kernel 2.6|[8478](https://www.exploit-db.com/exploits/8478)|
 |32.|[My File Server:1](https://www.hackingarticles.in/my-file-server-1-vulnhub-walkthrough/)|Dirty COW|[40616](https://www.exploit-db.com/exploits/40616)|
+|33.|[VulnUni 1.0.1](https://www.hackingarticles.in/vulnuni-1-0-1-vulnhub-walkthrough/)|GUnet OpenEclass E-learning platform 1.7.3|[48106](https://www.exploit-db.com/exploits/48106)|
 
 <a name="path"></a>
 ##  Path Variable [⤴](#table-of-contents)
@@ -165,6 +167,7 @@ Table of Contents
 |10.| [HA:Arsenal Avengers](https://www.hackingarticles.in/ha-avengers-arsenal-vulnhub-walkthrough/) | ifconfig |
 |11.| [Inclusiveness:1](https://www.hackingarticles.in/inclusiveness-1-vulnhub-walkthrough/)|whoami|
 |12.| [MuzzyBox:1](https://www.hackingarticles.in/muzzybox-1-vulnhub-walkthrough/)|ls|
+|13.| [TBBT:2](https://www.hackingarticles.in/tbbt2-vulnhub-walkthrough/)|sl|
 
 
 <a name="enum"></a>
@@ -213,6 +216,7 @@ Table of Contents
 | 40.  | [EVM: 1](https://www.hackingarticles.in/evm-1-vulnhub-walkthrough/)|
 | 41.  | [EnuBox:Mattermost](https://www.hackingarticles.in/enubox-mattermost-vulnhub-walkthrough/)|
 | 42.  | [2much:1](https://www.hackingarticles.in/2much-1-vulnhub-walkthrough/)|
+| 43.  | [mhz_cxf:c1f](https://www.hackingarticles.in/mhz_cxf-c1f-vulnhub-walkthrough/)|
 
 <a name="mysql"></a>
 ##  MySQL [⤴](#table-of-contents)
@@ -250,6 +254,7 @@ Table of Contents
 |2.	 |[DomDom: 1](https://www.hackingarticles.in/domdom-1-vulnhub-walkthrough/)|
 |3.  |[HA: Naruto](https://www.hackingarticles.in/ha-naruto-vulnhub-walkthrough/)|
 |4.  |[Connect The Dots:1](https://www.hackingarticles.in/connect-the-dots1-vulnhub-walkthough/)|
+|5.  |[Katana](https://www.hackingarticles.in/katana-vulnhub-walkthrough/)|
 
 <a name="etc"></a>
 ##  Writable etc/passwd file [⤴](#table-of-contents)
@@ -284,6 +289,7 @@ Table of Contents
 |12. |[Tr0ll 1](https://www.hackingarticles.in/hack-the-troll-1-vm-boot-to-root/)|
 |13. |[DC:7](https://www.hackingarticles.in/dc7-vulnhub-walkthrough/)|
 |14. |[View2aKill](https://www.hackingarticles.in/view2akill-vulnhub-walkthrough/)|
+|15. |[CengBox:1](https://www.hackingarticles.in/cengbox-1-vulnhub-walkthrough/)|
 
 <a name="buffer"></a>
 ##  Buffer Overflow [⤴](#table-of-contents)
