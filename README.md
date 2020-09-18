@@ -399,3 +399,4 @@ Table of Contents
 |----|---------------------------------------------------------------------------------------------------------|
 |1.|[Torment](https://www.hackingarticles.in/digitalworld-localtorment-vulnhub-walkthrough/)|
 |2.|[HA: Armour](https://www.hackingarticles.in/ha-armour-walkthrough/)|
+|3.|[HA: Natraj](https://www.hackingarticles.in/ha-natraj-vulnhub-walkthrough/)
