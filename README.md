@@ -86,7 +86,14 @@ Table of Contents
 |42.|[Symfonos:5](https://www.hackingarticles.in/symfonos5-vulnhub-walkthrough/)|dpkg|
 |43.|[Five86:2](https://www.hackingarticles.in/five86-2-vulnhub-walkthrough/)| service |
 |44.|[Tempus Fugit:1](https://www.hackingarticles.in/tempus-fugit-1-vulnhub-walkthrough/)|Diffrent for every user|
-|45.|[CryptoBank:1](https://www.hackingarticles.in/cryptobank-1-vulnhub-walkthrough/)|All|
+|45.|[DevRandom CTF:1.1](https://www.hackingarticles.in/devrandom-ctf1-1-vulnhub-walkthrough/)|dpkg|
+|46.|[Zion: 1.1](https://www.hackingarticles.in/zion-1-1-vulnhub-walkthrough/)|cp|
+|47.|[Seppuku:1](https://www.hackingarticles.in/seppuku1-vulnhub-walkthrough/)|script|
+|48.|[GitRoot: 1](https://www.hackingarticles.in/gitroot-1-vulnhub-walkthrough/)|git|
+|49.|[Tre:1](https://www.hackingarticles.in/tre1-vulnhub-walkthrough/)|shutdown|
+|50.|[BlackRose: 1](https://www.hackingarticles.in/blackrose-1-vulnhub-walkthrough/)|script|
+|51.|[So Simple:1](https://www.hackingarticles.in/so-simple1-vulnhub-walkthrough/)|script|
+|52.|[CryptoBank:1](https://www.hackingarticles.in/cryptobank-1-vulnhub-walkthrough/)|All|
 
 <a name="suid"></a>
 ##  SUID Bit [⤴](#table-of-contents)
