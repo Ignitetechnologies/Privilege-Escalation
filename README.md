@@ -263,7 +263,7 @@ Table of Contents
 |5.  |[Katana](https://www.hackingarticles.in/katana-vulnhub-walkthrough/)|
 
 <a name="etc"></a>
-##  Writable etc/passwd file [⤴](#table-of-contents)
+##  Writable /etc/passwd file [⤴](#table-of-contents)
 | No | Machine Name                                                                                            |
 |----|---------------------------------------------------------------------------------------------------------|
 |1.	 |[Hackday Albania](https://www.hackingarticles.in/hack-hackday-albania-vm-ctf-challenge/)|
@@ -276,6 +276,7 @@ Table of Contents
 |8.  |[Gears of War: EP#1](https://www.hackingarticles.in/gears-of-war-ep1-vulnhub-walkthrough/)|
 |9.  |[DC:9](https://www.hackingarticles.in/dc-9-vulnhub-walkthrough/)|
 |10. |[Sahu](https://www.hackingarticles.in/sahu-vulnhub-walkthrough/)|
+|11. |[Sunset: Twilight](https://www.hackingarticles.in/sunset-twilight-vulnhub-walkthrough/)|
 
 <a name="root"></a>
 ##  Writable files or script as root [⤴](#table-of-contents)
