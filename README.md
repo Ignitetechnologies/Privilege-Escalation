@@ -312,6 +312,7 @@ Table of Contents
 |13. |[DC:7](https://www.hackingarticles.in/dc7-vulnhub-walkthrough/)|
 |14. |[View2aKill](https://www.hackingarticles.in/view2akill-vulnhub-walkthrough/)|
 |15. |[CengBox:1](https://www.hackingarticles.in/cengbox-1-vulnhub-walkthrough/)|
+|16. |[Broken 2020: 1](https://www.hackingarticles.in/broken-2020-1-vulnhub-walkthrough/)|
 
 <a name="buffer"></a>
 ##  Buffer Overflow [⤴](#table-of-contents)
