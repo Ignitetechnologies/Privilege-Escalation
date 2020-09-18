@@ -111,6 +111,7 @@ Table of Contents
 |16.|[In Plain Sight:1](https://www.hackingarticles.in/in-plain-sight1-vulnhub-walkthrough/)|script|
 |17.|[Five86:1](https://www.hackingarticles.in/five861-vulnhub-walkthrough/)|script|
 |18.|[Geisha:1](https://www.hackingarticles.in/geisha1-vulnhub-walkthrough/)|base32|
+|19.|[DMV :1](https://www.hackingarticles.in/dmv-1-vulnhub-walkthrough/)| script|
 
 <a name="kernel"></a>
 ##  Kernel Exploit [⤴](#table-of-contents)
@@ -293,7 +294,6 @@ Table of Contents
 |13. |[DC:7](https://www.hackingarticles.in/dc7-vulnhub-walkthrough/)|
 |14. |[View2aKill](https://www.hackingarticles.in/view2akill-vulnhub-walkthrough/)|
 |15. |[CengBox:1](https://www.hackingarticles.in/cengbox-1-vulnhub-walkthrough/)|
-|16. |[DMV :1](https://www.hackingarticles.in/dmv-1-vulnhub-walkthrough/)
 
 <a name="buffer"></a>
 ##  Buffer Overflow [⤴](#table-of-contents)
