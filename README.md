@@ -174,6 +174,7 @@ Table of Contents
 |11.| [Inclusiveness:1](https://www.hackingarticles.in/inclusiveness-1-vulnhub-walkthrough/)|whoami|
 |12.| [MuzzyBox:1](https://www.hackingarticles.in/muzzybox-1-vulnhub-walkthrough/)|ls|
 |13.| [TBBT:2](https://www.hackingarticles.in/tbbt2-vulnhub-walkthrough/)|sl|
+|14.| [Sunset: Midnight](https://www.hackingarticles.in/sunset-midnight-vulnhub-walkthrough/)|service|
 
 
 <a name="enum"></a>
