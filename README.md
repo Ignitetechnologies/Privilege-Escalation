@@ -330,6 +330,7 @@ Table of Contents
 |1.  |[SickOS 1.2](https://www.hackingarticles.in/hack-the-sickos-1-2-vm-ctf-challenge/)|
 |2.  |[Sedna](https://www.hackingarticles.in/hack-sedna-vm-ctf-challenge/)|
 |3.  |[HA: Chanakya](https://www.hackingarticles.in/ha-chanakya-vulnhub-walkthrough/)|
+|4.  |[Sunset: decoy](https://www.hackingarticles.in/sunset-decoy-vulnhub-walkthrough/)|
 
 <a name="bruteforce"></a>
 ##  Bruteforce [⤴](#table-of-contents) 
