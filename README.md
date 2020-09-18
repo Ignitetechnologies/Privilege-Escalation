@@ -221,6 +221,8 @@ Table of Contents
 | 41.  | [EnuBox:Mattermost](https://www.hackingarticles.in/enubox-mattermost-vulnhub-walkthrough/)|
 | 42.  | [2much:1](https://www.hackingarticles.in/2much-1-vulnhub-walkthrough/)|
 | 43.  | [mhz_cxf:c1f](https://www.hackingarticles.in/mhz_cxf-c1f-vulnhub-walkthrough/)|
+| 44.  | [HA: Pandavas](https://www.hackingarticles.in/ha-pandavas-vulnhub-walkthrough/)|
+| 45.  | [GreenOptic: 1](https://www.hackingarticles.in/greenoptic-1-vulnhub-walkthrough/)|
 
 <a name="mysql"></a>
 ##  MySQL [⤴](#table-of-contents)
