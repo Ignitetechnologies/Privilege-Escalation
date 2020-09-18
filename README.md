@@ -151,8 +151,10 @@ Table of Contents
 |31.|[LAMPSecurity: CTF6](https://www.hackingarticles.in/lampsecurity-ctf6-vulnhub-walkthrough/)|Linux Kernel 2.6|[8478](https://www.exploit-db.com/exploits/8478)|
 |32.|[My File Server:1](https://www.hackingarticles.in/my-file-server-1-vulnhub-walkthrough/)|Dirty COW|[40616](https://www.exploit-db.com/exploits/40616)|
 |33.|[VulnUni 1.0.1](https://www.hackingarticles.in/vulnuni-1-0-1-vulnhub-walkthrough/)|GUnet OpenEclass E-learning platform 1.7.3|[48106](https://www.exploit-db.com/exploits/48106)|
-|34.|[Loly: 1](https://www.hackingarticles.in/loly-1-vulnhub-walkthrough/)|Linux Kernel < 4.13.9 (Ubuntu 16.04 / Fedora 27) |[45010](https://www.exploit-db.com/exploits/45010)|
-|35.|[Tomato: 1](https://www.hackingarticles.in/tomato-1-vulnhub-walkthrough/)|Linux Kernel < 4.13.9 (Ubuntu 16.04 / Fedora 27) |[45010](https://www.exploit-db.com/exploits/45010)|
+|34.|[Sumo: 1](https://www.hackingarticles.in/sumo-1-vulnhub-walkthrough/)|Dirty COW|[40839](https://www.exploit-db.com/exploits/40839)|
+|35.|[CyberSploit: 1](https://www.hackingarticles.in/cybersploit-1-vulnhub-walkthrough/)|Linux Kernel 3.13.0 < 3.19 (Ubuntu 12.04/14.04/14.10/15.04) - 'overlayfs'|[37292](https://www.exploit-db.com/exploits/37292)|
+|36.|[Loly: 1](https://www.hackingarticles.in/loly-1-vulnhub-walkthrough/)|Linux Kernel < 4.13.9 (Ubuntu 16.04 / Fedora 27) |[45010](https://www.exploit-db.com/exploits/45010)|
+|37.|[Tomato: 1](https://www.hackingarticles.in/tomato-1-vulnhub-walkthrough/)|Linux Kernel < 4.13.9 (Ubuntu 16.04 / Fedora 27) |[45010](https://www.exploit-db.com/exploits/45010)|
 
 <a name="path"></a>
 ##  Path Variable [⤴](#table-of-contents)
