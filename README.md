@@ -7,7 +7,7 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them understan
 # Follow us on [![alt text][1.1]][1]
 
 
-<a href="" alt="cheatsheet" border="0"></a>
+<a href="https://user-images.githubusercontent.com/23155361/93634827-dfd53700-fa0e-11ea-8110-77406a1b2661.png" alt="cheatsheet" border="0"></a>
 
 
 Table of Contents
