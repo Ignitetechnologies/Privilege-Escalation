@@ -19,7 +19,7 @@ Table of Contents
 * [Path Variable](#path)
 * [Enumeration](#enum)
 * [MySQL](#mysql)
-* [Crontab](#crontab)
+* [Cronjon](#cronjob)
 * [Wildcard Injection](#wild)
 * [Capabilities](#capabilities)
 * [Writable /etc/passwd file](#etc)
@@ -232,7 +232,7 @@ Table of Contents
 | 3.  | [Raven : 2](https://www.hackingarticles.in/raven-2-vulnhub-walkthrough/)                                |
 
 <a name="crontab"></a>
-##  Crontab [⤴](#table-of-contents)
+##  Cronjob [⤴](#table-of-contents)
 | No | Machine Name                                                                                            |
 |----|---------------------------------------------------------------------------------------------------------|
 |1.	 |[Billy Madison](https://www.hackingarticles.in/hack-billy-madison-vm-ctf-challenge/)                     |
@@ -242,6 +242,8 @@ Table of Contents
 |5.  |[dpwwn: 1](https://www.hackingarticles.in/dpwwn-1-vulnhub-walkthrough/)|
 |6.  |[Sar](https://www.hackingarticles.in/sar-vulnhub-walkthrough/)|
 |7.  |[TBBT](https://www.hackingarticles.in/tbbt-funwithflags-vulnhub-walkthrough/)|
+|8.  |[Glasgow Smile: 1.1](https://www.hackingarticles.in/glasgow-smile-1-1-vulnhub-walkthrough/)|
+|9.  |[LemonSqueezy:1](https://www.hackingarticles.in/lemonsqueezy1-vulnhub-walkthrough/)|
 
 <a name="wild"></a>
 ##  Wildcard Injection [⤴](#table-of-contents)
