@@ -261,7 +261,7 @@ Table of Contents
 |3.  |[HA: Naruto](https://www.hackingarticles.in/ha-naruto-vulnhub-walkthrough/)|
 |4.  |[Connect The Dots:1](https://www.hackingarticles.in/connect-the-dots1-vulnhub-walkthough/)|
 |5.  |[Katana](https://www.hackingarticles.in/katana-vulnhub-walkthrough/)|
-
+|6.  |[Presidential: 1](https://www.hackingarticles.in/presidential-1-vulnhub-walkthrough/)|
 <a name="etc"></a>
 ##  Writable /etc/passwd file [⤴](#table-of-contents)
 | No | Machine Name                                                                                            |
