@@ -93,6 +93,7 @@ Table of Contents
 |50.|[BlackRose: 1](https://www.hackingarticles.in/blackrose-1-vulnhub-walkthrough/)|script|
 |51.|[So Simple:1](https://www.hackingarticles.in/so-simple1-vulnhub-walkthrough/)|script|
 |52.|[CryptoBank:1](https://www.hackingarticles.in/cryptobank-1-vulnhub-walkthrough/)|All|
+|53.|[Star Wars:1](https://www.hackingarticles.in/star-wars-1-vulnhub-walkthrough/)|All|
 
 <a name="suid"></a>
 ##  SUID Bit [⤴](#table-of-contents)
