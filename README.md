@@ -291,6 +291,7 @@ Table of Contents
 |9.  |[DC:9](https://www.hackingarticles.in/dc-9-vulnhub-walkthrough/)|
 |10. |[Sahu](https://www.hackingarticles.in/sahu-vulnhub-walkthrough/)|
 |11. |[Sunset: Twilight](https://www.hackingarticles.in/sunset-twilight-vulnhub-walkthrough/)|
+|12. |[Chili:1](https://www.hackingarticles.in/chili-1-vulnhub-walkthrough/)|
 
 <a name="root"></a>
 ##  Writable files or script as root [⤴](#table-of-contents)
