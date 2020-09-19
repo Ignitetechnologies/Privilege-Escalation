@@ -18,7 +18,7 @@ Table of Contents
 * [Path Variable](#path)
 * [Enumeration](#enum)
 * [MySQL](#mysql)
-* [Cronjon](#cronjob)
+* [Cronjob](#cronjob)
 * [Wildcard Injection](#wild)
 * [Capabilities](#capabilities)
 * [Writable /etc/passwd file](#etc)
@@ -245,7 +245,7 @@ Table of Contents
 | 2.  | [Raven](https://www.hackingarticles.in/hack-the-raven-walkthrough-ctf-challenge/)                       |
 | 3.  | [Raven : 2](https://www.hackingarticles.in/raven-2-vulnhub-walkthrough/)                                |
 
-<a name="crontab"></a>
+<a name="cronjob"></a>
 ##  Cronjob [⤴](#table-of-contents)
 | No | Machine Name                                                                                            |
 |----|---------------------------------------------------------------------------------------------------------|
