@@ -22,7 +22,7 @@ Table of Contents
 * [Wildcard Injection](#wild)
 * [Capabilities](#capabilities)
 * [Writable /etc/passwd file](#etc)
-* [Writable files or script as root](#root)
+* [Writable files or script](#root)
 * [Buffer Overflow](#buffer)
 * [Docker](#docker)
 * [Chkrootkit](#chkrootkit)
@@ -297,7 +297,7 @@ Table of Contents
 |12. |[Chili:1](https://www.hackingarticles.in/chili-1-vulnhub-walkthrough/)|
 
 <a name="root"></a>
-##  Writable files or script as root [⤴](#table-of-contents)
+##  Writable files or script [⤴](#table-of-contents)
 | No | Machine Name                                                                                            |
 |----|---------------------------------------------------------------------------------------------------------|
 |1.	 |[Skydog](https://www.hackingarticles.in/hack-skydog-vm-ctf-challenge/)|
@@ -316,6 +316,7 @@ Table of Contents
 |14. |[View2aKill](https://www.hackingarticles.in/view2akill-vulnhub-walkthrough/)|
 |15. |[CengBox:1](https://www.hackingarticles.in/cengbox-1-vulnhub-walkthrough/)|
 |16. |[Broken 2020: 1](https://www.hackingarticles.in/broken-2020-1-vulnhub-walkthrough/)|
+|17. |[CengBox:2](https://www.hackingarticles.in/cengbox-2-vulnhub-walkthrough/)|
 
 <a name="buffer"></a>
 ##  Buffer Overflow [⤴](#table-of-contents)
