@@ -95,6 +95,8 @@ Table of Contents
 |52.|[CryptoBank:1](https://www.hackingarticles.in/cryptobank-1-vulnhub-walkthrough/)|All|
 |53.|[Star Wars:1](https://www.hackingarticles.in/star-wars-1-vulnhub-walkthrough/)|All|
 |54.|[Mercury](https://www.hackingarticles.in/mercury-vulnhub-walkthrough/)|script|
+|55.|[Durian:1](https://www.hackingarticles.in/durian-1-vulnhub-walkthrough/)|script|
+
 
 <a name="suid"></a>
 ##  SUID Bit [⤴](#table-of-contents)
@@ -240,6 +242,7 @@ Table of Contents
 | 44.  | [HA: Pandavas](https://www.hackingarticles.in/ha-pandavas-vulnhub-walkthrough/)|
 | 45.  | [GreenOptic:1](https://www.hackingarticles.in/greenoptic-1-vulnhub-walkthrough/)|
 | 46.  | [Cewlkid:1](https://www.hackingarticles.in/cewlkid-1-vulnhub-walkthrough/)|
+| 47.  | [PowerGrid:1.0.1](https://www.hackingarticles.in/powergrid-1-0-1-vulnhub-walkthrough/)|
 
 <a name="mysql"></a>
 ##  MySQL [⤴](#table-of-contents)
@@ -319,6 +322,7 @@ Table of Contents
 |15. |[CengBox:1](https://www.hackingarticles.in/cengbox-1-vulnhub-walkthrough/)|
 |16. |[Broken 2020: 1](https://www.hackingarticles.in/broken-2020-1-vulnhub-walkthrough/)|
 |17. |[CengBox:2](https://www.hackingarticles.in/cengbox-2-vulnhub-walkthrough/)|
+|18. |[HA:Narak](https://www.hackingarticles.in/ha-narak-vulnhub-walkthrough/)|
 
 <a name="buffer"></a>
 ##  Buffer Overflow [⤴](#table-of-contents)
