@@ -96,6 +96,7 @@ Table of Contents
 |53.|[Star Wars:1](https://www.hackingarticles.in/star-wars-1-vulnhub-walkthrough/)|All|
 |54.|[Mercury](https://www.hackingarticles.in/mercury-vulnhub-walkthrough/)|script|
 |55.|[Durian:1](https://www.hackingarticles.in/durian-1-vulnhub-walkthrough/)|script|
+|56.|[Maskcrafter:1.1](https://www.hackingarticles.in/maskcrafter-1-1-vulnhub-walkthrough/)|dpkg|
 
 
 <a name="suid"></a>
@@ -203,7 +204,7 @@ Table of Contents
 | 4.   | [LAMPSecurity: CTF 7](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-7-ctf-challenge/)                      |
 | 5.   | [Xerxes: 1](https://www.hackingarticles.in/xerxes-1-vulnhub-walkthrough/)                                             |
 | 6.   | [pWnOS -2.0](https://www.hackingarticles.in/hack-the-pwnos-2-0-boot-2-root-challenge/)                                |
-| 7.   | [DE-ICE:S1.130](https://www.hackingarticles.in/hack-the-de-ice-s1-130-boot2root-challenge/)                   |                                                | 8.   | [SickOS 1.1](https://www.hackingarticles.in/hack-sickos-1-1-vm-ctf-challenge/)                              |          
+| 7.   | [DE-ICE:S1.130](https://www.hackingarticles.in/hack-the-de-ice-s1-130-boot2root-challenge/)                   |                                                | 8.   | | 8.   | [SickOS 1.1](https://www.hackingarticles.in/hack-sickos-1-1-vm-ctf-challenge/)                              |          
 | 9.   | [Tommyboy](https://www.hackingarticles.in/hack-tommyboy-vm-ctf-challenge/)                                    |
 | 10.  | [VulnOS: 1](https://www.hackingarticles.in/hack-the-vulnos-1-ctf-challenge/)                                          |
 | 11.  | [Spyder Sec](https://www.hackingarticles.in/hack-spydersec-vm-ctf-challenge/)                                         |
@@ -243,6 +244,8 @@ Table of Contents
 | 45.  | [GreenOptic:1](https://www.hackingarticles.in/greenoptic-1-vulnhub-walkthrough/)|
 | 46.  | [Cewlkid:1](https://www.hackingarticles.in/cewlkid-1-vulnhub-walkthrough/)|
 | 47.  | [PowerGrid:1.0.1](https://www.hackingarticles.in/powergrid-1-0-1-vulnhub-walkthrough/)|
+| 48.  | [Insanity:1](https://www.hackingarticles.in/insanity-1-vulnhub-walkthrough/)|
+| 49.  | [Tempus Fugit:3](https://www.hackingarticles.in/tempus-fugit-3-vulnhub-walkthrough/)|
 
 <a name="mysql"></a>
 ##  MySQL [⤴](#table-of-contents)
