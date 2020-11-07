@@ -3,7 +3,7 @@
 This cheatsheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples. It is not a cheatsheet for Enumeration using Linux Commands. Privilege escalation is all about proper enumeration. There are multiple ways to perform the same tasks. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://twitter.com/pavan2318).
 
 [1.1]: http://i.imgur.com/tXSoThF.png
-[1]: http://www.twitter.com/rajchandel
+[1]: http://www.twitter.com/hackinarticles
 # Follow us on [![alt text][1.1]][1]
 
 <img src="https://user-images.githubusercontent.com/23155361/93634827-dfd53700-fa0e-11ea-8110-77406a1b2661.png" alt="cheatsheet" border="0">
