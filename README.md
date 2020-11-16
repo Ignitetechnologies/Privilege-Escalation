@@ -127,6 +127,7 @@ Table of Contents
 |21.|[Photographer 1](https://www.hackingarticles.in/photographer-1-vulnhub-walkthrough/)|php7.2|
 |22.|[DMV :1](https://www.hackingarticles.in/dmv-1-vulnhub-walkthrough/)| script|
 |23.|[ShellDredd #1 Hannah](https://www.hackingarticles.in/shelldredd-1-hannah-vulnhub-walkthrough/)| cpulimit|
+|24.|[KB-Vuln:3](https://www.hackingarticles.in/kb-vuln-3-vulnhub-walkthrough/)| systemctl|
 
 <a name="kernel"></a>
 ##  Kernel Exploit [⤴](#table-of-contents)
@@ -246,6 +247,9 @@ Table of Contents
 | 47.  | [PowerGrid:1.0.1](https://www.hackingarticles.in/powergrid-1-0-1-vulnhub-walkthrough/)|
 | 48.  | [Insanity:1](https://www.hackingarticles.in/insanity-1-vulnhub-walkthrough/)|
 | 49.  | [Tempus Fugit:3](https://www.hackingarticles.in/tempus-fugit-3-vulnhub-walkthrough/)|
+| 50.  | [HA: Forensics](https://www.hackingarticles.in/ha-forensics-vulnhub-walkthrough/)|
+| 51.  | [HA: Vedas](https://www.hackingarticles.in/ha-vedas-vulnhub-walkthrough/)|
+| 52.  | [HA: Sherlock](https://www.hackingarticles.in/ha-sherlock-vulnhub-walkthrough/)|
 
 <a name="mysql"></a>
 ##  MySQL [⤴](#table-of-contents)
