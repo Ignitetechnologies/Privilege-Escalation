@@ -96,9 +96,11 @@ Table of Contents
 |53.|[Star Wars:1](https://www.hackingarticles.in/star-wars-1-vulnhub-walkthrough/)|All|
 |54.|[Mercury](https://www.hackingarticles.in/mercury-vulnhub-walkthrough/)|script|
 |55.|[Durian:1](https://www.hackingarticles.in/durian-1-vulnhub-walkthrough/)|script|
-|56.|[Maskcrafter:1.1](https://www.hackingarticles.in/maskcrafter-1-1-vulnhub-walkthrough/)|dpkg|
-|57.|[Hogwarts:Bellatrix](https://www.hackingarticles.in/hogwarts-bellatrix-vulnhub-walkthrough/)|vim|
-|58.|[Relevant:1](https://www.hackingarticles.in/relevant-1-vulnhub-walkthrough/)|node|
+|56.|[nyx:1](https://www.hackingarticles.in/nyx-1-vulnhub-walkthrough/)|gcc|
+|57.|[Relevant:1](https://www.hackingarticles.in/relevant-1-vulnhub-walkthrough/)|node|
+|58.|[Maskcrafter:1.1](https://www.hackingarticles.in/maskcrafter-1-1-vulnhub-walkthrough/)|dpkg|
+|59.|[Hogwarts:Bellatrix](https://www.hackingarticles.in/hogwarts-bellatrix-vulnhub-walkthrough/)|vim|
+
 
 
 
