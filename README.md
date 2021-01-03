@@ -97,6 +97,9 @@ Table of Contents
 |54.|[Mercury](https://www.hackingarticles.in/mercury-vulnhub-walkthrough/)|script|
 |55.|[Durian:1](https://www.hackingarticles.in/durian-1-vulnhub-walkthrough/)|script|
 |56.|[Maskcrafter:1.1](https://www.hackingarticles.in/maskcrafter-1-1-vulnhub-walkthrough/)|dpkg|
+|57.|[Hogwarts:Bellatrix](https://www.hackingarticles.in/hogwarts-bellatrix-vulnhub-walkthrough/)|vim|
+|58.|[Relevant:1](https://www.hackingarticles.in/relevant-1-vulnhub-walkthrough/)|node|
+
 
 
 <a name="suid"></a>
@@ -128,6 +131,7 @@ Table of Contents
 |22.|[DMV :1](https://www.hackingarticles.in/dmv-1-vulnhub-walkthrough/)| script|
 |23.|[ShellDredd #1 Hannah](https://www.hackingarticles.in/shelldredd-1-hannah-vulnhub-walkthrough/)| cpulimit|
 |24.|[KB-Vuln:3](https://www.hackingarticles.in/kb-vuln-3-vulnhub-walkthrough/)| systemctl|
+|25.|[Cybox:1](https://www.hackingarticles.in/cybox-1-vulnhub-walkthrough/)| register|
 
 <a name="kernel"></a>
 ##  Kernel Exploit [⤴](#table-of-contents)
@@ -351,10 +355,11 @@ Table of Contents
 |----|---------------------------------------------------------------------------------------------------------|
 |1.	 |[Donkey Docker](https://www.hackingarticles.in/hack-donkeydocker-ctf-challenge/)|
 |2.	 |[Game of Thrones](https://www.hackingarticles.in/hack-game-thrones-vm-ctf-challenge/)|
-|3.	 |[HackinOS : 1](https://www.hackingarticles.in/hackinos1-vulnhub-lab-walkthrough/)|
+|3.	 |[HackinOS:1](https://www.hackingarticles.in/hackinos1-vulnhub-lab-walkthrough/)|
 |4.  |[HA: Chakravyuh](https://www.hackingarticles.in/ha-chakravyuh-vulnhub-walkthrough/)|
 |5.  |[Mumbai:1](https://www.hackingarticles.in/mumbai1-vulnhub-walkthrough/)|
-|6.  |[Sunset: dusk](https://www.hackingarticles.in/sunset-dusk-vulnhub-walkthrough/)|
+|6.  |[Sunset:dusk](https://www.hackingarticles.in/sunset-dusk-vulnhub-walkthrough/)|
+|7.  |[Pwned:1](https://www.hackingarticles.in/pwned-1-vulnhub-walkthorugh/)|
 
 <a name="chkrootkit"></a>
 ##  Chkrootkit [⤴](#table-of-contents)
