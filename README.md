@@ -1,6 +1,6 @@
 # Privilege Escalation Cheatsheet (Vulnhub)
 
-This cheatsheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples. It is not a cheatsheet for Enumeration using Linux Commands. Privilege escalation is all about proper enumeration. There are multiple ways to perform the same tasks. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
+This cheatsheet is aimed at CTF players and beginners to help them understand the fundamentals of privilege escalation with examples. It is not a cheatsheet for enumeration using Linux Commands. Privilege escalation is all about proper enumeration. There are multiple ways to perform the same task. We have performed and compiled this list based on our experience. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
 
 [1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
 [1.6]: https://www.linkedin.com/company/hackingarticles/
