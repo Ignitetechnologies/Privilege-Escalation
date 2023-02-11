@@ -10,7 +10,7 @@ This cheatsheet is aimed at CTF players and beginners to help them understand th
 [1]: http://www.twitter.com/hackinarticles
 # Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
 
-<img src="https://github.com/Ignitetechnologies/Mindmap/blob/main/Vulnhub/%20Vulnhub%20Privs%20Cheatsheet%20HD.png" alt="cheatsheet" border="0">
+<img src="https://github.com/Ignitetechnologies/Mindmap/blob/main/Vulnhub/%20Vulnhub%20Privs%20Cheatsheet%20UHD.png" alt="cheatsheet" border="0">
 
 
 Table of Contents
