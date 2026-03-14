@@ -2,21 +2,6 @@
 
 A practical Privilege Escalation cheat sheet and reference guide designed for CTF players, penetration testers, and cybersecurity learners to understand how attackers escalate privileges on compromised systems
 
-🔍 Topics Covered
-
-The repository includes multiple privilege escalation techniques such as:
-
-🔑 Abusing Sudo Permissions
-📂 SUID Binary Exploitation
-🧬 Kernel Exploits
-🧪 PATH Variable Hijacking
-⏰ Cron Job Exploitation
-📁 Writable Files and Scripts
-🔓 Writable /etc/passwd Exploitation
-🐳 Docker & LXD Privilege Escalation
-📦 Capabilities Abuse
-🧨 Buffer Overflow Attacks
-🌐 Service Misconfigurations (NFS, Redis, MySQL)
 
 ## 🌐 Connect With Us
 
