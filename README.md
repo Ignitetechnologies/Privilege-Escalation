@@ -1,17 +1,35 @@
-# Privilege Escalation Cheatsheet (Vulnhub)
+⬆️ Privilege Escalation for Pentesters
 
-This cheatsheet is aimed at CTF players and beginners to help them understand the fundamentals of privilege escalation with examples. It is not a cheatsheet for enumeration using Linux Commands. Privilege escalation is all about proper enumeration. There are multiple ways to perform the same task. We have performed and compiled this list based on our experience. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
+A practical Privilege Escalation cheat sheet and reference guide designed for CTF players, penetration testers, and cybersecurity learners to understand how attackers escalate privileges on compromised systems
 
-[1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
-[1.6]: https://www.linkedin.com/company/hackingarticles/
-[1.3]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/discord.png
-[1.4]: https://discord.com/invite/kyKvXwK4Bk
-[1.1]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/twitter.png
-[1]: http://www.twitter.com/hackinarticles
-# Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
+🔍 Topics Covered
 
-<img src="https://github.com/Ignitetechnologies/Mindmap/blob/main/Vulnhub/%20Vulnhub%20Privs%20Cheatsheet%20UHD.png" alt="cheatsheet" border="0">
+The repository includes multiple privilege escalation techniques such as:
 
+🔑 Abusing Sudo Permissions
+📂 SUID Binary Exploitation
+🧬 Kernel Exploits
+🧪 PATH Variable Hijacking
+⏰ Cron Job Exploitation
+📁 Writable Files and Scripts
+🔓 Writable /etc/passwd Exploitation
+🐳 Docker & LXD Privilege Escalation
+📦 Capabilities Abuse
+🧨 Buffer Overflow Attacks
+🌐 Service Misconfigurations (NFS, Redis, MySQL)
+
+## 🌐 Connect With Us
+
+🔵 **[Telegram – Join Channel](https://t.me/hackinarticles)**  
+⚫ **[Twitter/X – Follow Us](https://x.com/hackinarticles)**  
+🟣 **[Discord – Join Server](https://discord.com/invite/kyKvXwK4Bk)**  
+💼 **[LinkedIn – Follow HackingArticles](https://www.linkedin.com/company/hackingarticles)**  
+
+## 🎓 Training Program
+
+🚀 **[Join Our Cybersecurity Training Program](https://forms.gle/bowpX9TGEs41GDG99)**  
+
+Hands-on training in **Penetration Testing, Red Teaming, and Cybersecurity.**
 
 Table of Contents
 =================
@@ -445,4 +463,7 @@ Table of Contents
 |----|---------------------------------------------------------------------------------------------------------|
 |1.|[Torment](https://www.hackingarticles.in/digitalworld-localtorment-vulnhub-walkthrough/)|
 |2.|[HA: Armour](https://www.hackingarticles.in/ha-armour-walkthrough/)|
+
+<img src="https://github.com/Ignitetechnologies/Mindmap/blob/main/Vulnhub/%20Vulnhub%20Privs%20Cheatsheet%20UHD.png" alt="cheatsheet" border="0">
+
 |3.|[HA: Natraj](https://www.hackingarticles.in/ha-natraj-vulnhub-walkthrough/)
